@@ -299,7 +299,6 @@ enum educationlevel {
   Bachelor
   Master
   Doctoral
-  Unknown
   Other
 }
 
