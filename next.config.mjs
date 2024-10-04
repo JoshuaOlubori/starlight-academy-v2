@@ -8,6 +8,7 @@ const nextConfig = {
   experimental: {
     serverActions: {
       allowedOrigins: [
+        'https://friendly-pancake-xx4gw5pxj6v2v77g.github.dev',
         'https://starlight-academy-96po.onrender.com',
         'localhost:3000', // localhost
         'https://reimagined-yodel-46rp7jvrj4pcjx4x-3000.app.github.dev/',

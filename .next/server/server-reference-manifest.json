@@ -1,0 +1,14 @@
+{
+  "node": {
+    "825383badc2004160f2dd24e589f8b663ee648cc": {
+      "workers": {
+        "app/(dashboard)/admin/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fstarlight-academy-v2%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/admin/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "oXiPyRmJtXu/XBay55RRg6cbYZ/PPlX9t5DrNpD4Zn4="
+}

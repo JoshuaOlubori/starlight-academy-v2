@@ -1,0 +1,721 @@
+parent,seq,id,username,name,surname,email,phone,address,createdAt,income_level,parent_highest_education_level,parent_support_index
+parentid,1,parentid_1,Selena,Neysa,Whitley,nwhitley0@last.fm,303-999-3139,16994 Schlimgen Point,2021-11-09,Below50k,Master,7
+parentid,2,parentid_2,Karl,Ailsun,Shoebrook,ashoebrook1@cornell.edu,822-784-4916,68 Bowman Way,2024-01-16,Between1mTo2m,Master,2
+parentid,3,parentid_3,Matty,Marabel,Faussett,mfaussett2@home.pl,982-561-8587,73290 Heffernan Avenue,2020-04-26,Between500kTo1m,Master,2
+parentid,4,parentid_4,Trevar,Traci,Plaschke,tplaschke3@cafepress.com,927-623-3456,990 Amoth Avenue,2021-03-13,Above5m,Doctoral,8
+parentid,5,parentid_5,Gracie,Margot,Ashmole,mashmole4@alibaba.com,293-827-0174,0 Northfield Way,2022-01-15,Between2mTo5m,Master,6
+parentid,6,parentid_6,Papageno,Gabie,Cuniam,gcuniam5@angelfire.com,400-903-5609,2 Derek Plaza,2020-04-20,Below50k,Doctoral,6
+parentid,7,parentid_7,Fleur,Dorotea,Sodeau,dsodeau6@state.gov,185-712-1522,0 Carioca Way,2024-02-06,Below50k,Primary,2
+parentid,8,parentid_8,Adelle,Goldina,Gerauld,ggerauld7@mit.edu,424-316-9397,4 Cody Plaza,2023-08-24,Between2mTo5m,Vocational,5
+parentid,9,parentid_9,Andie,Tatiania,Van der Merwe,tvandermerwe8@ycombinator.com,232-468-3216,131 Lake View Way,2024-09-03,Between200kTo500k,Master,3
+parentid,10,parentid_10,Aylmar,Caitlin,Dimnage,cdimnage9@virginia.edu,120-880-9512,277 Northfield Court,2022-05-16,Between50kTo100k,Bachelor,3
+parentid,11,parentid_11,Reine,Stanwood,Shapero,sshaperoa@typepad.com,346-818-9001,67194 Helena Plaza,2019-01-05,Between200kTo500k,Master,6
+parentid,12,parentid_12,Jillie,Brandea,Eager,beagerb@nationalgeographic.com,408-833-3651,21223 Hoffman Terrace,2022-08-07,Between100kTo200k,Master,1
+parentid,13,parentid_13,Daffy,Jaquenetta,Polden,jpoldenc@huffingtonpost.com,210-615-6273,371 Prairie Rose Parkway,2019-10-14,Between500kTo1m,Master,5
+parentid,14,parentid_14,Artie,Dallas,Ellingham,dellinghamd@wunderground.com,621-883-1369,2 Fordem Circle,2024-02-20,Between100kTo200k,Master,1
+parentid,15,parentid_15,Brandyn,Corty,Mullett,cmullette@github.com,161-482-6745,0287 Bashford Street,2019-02-02,Between100kTo200k,Master,7
+parentid,16,parentid_16,Tawsha,Shalna,Huxster,shuxsterf@ftc.gov,359-428-8753,34 Hovde Crossing,2024-09-16,Between1mTo2m,Master,9
+parentid,17,parentid_17,Sofie,Jim,Chauvey,jchauveyg@hp.com,829-614-5964,9 Gina Street,2023-06-06,Above5m,Bachelor,4
+parentid,18,parentid_18,Nick,Theodora,January,tjanuaryh@mapy.cz,770-878-4321,70 Crescent Oaks Court,2022-12-09,Between2mTo5m,Master,1
+parentid,19,parentid_19,Barry,Ana,Boog,aboogi@cmu.edu,934-175-1922,21464 Algoma Way,2019-08-18,Above5m,Master,4
+parentid,20,parentid_20,Sherie,Olva,Licence,olicencej@gnu.org,279-104-6097,7 Waywood Plaza,2019-07-05,Between200kTo500k,Master,9
+parentid,21,parentid_21,Nataniel,Paton,Irnis,pirnisk@guardian.co.uk,564-456-9405,07 Bunker Hill Hill,2024-09-05,Between100kTo200k,Doctoral,8
+parentid,22,parentid_22,Jeanine,Matthias,Torri,mtorril@surveymonkey.com,411-746-6538,10796 Tomscot Lane,2020-09-13,Between200kTo500k,Master,3
+parentid,23,parentid_23,Heddi,Tiebold,Astley,tastleym@ted.com,166-336-9043,6 Briar Crest Terrace,2019-01-28,Between500kTo1m,Master,10
+parentid,24,parentid_24,Astrid,Jonah,Tellesson,jtellessonn@unblog.fr,875-643-3709,41046 Steensland Drive,2023-11-29,Between1mTo2m,Master,7
+parentid,25,parentid_25,Waverly,Wilhelmina,Viles,wvileso@skyrock.com,242-333-0004,918 Esker Avenue,2021-12-23,Above5m,Bachelor,3
+parentid,26,parentid_26,Danya,Lissa,Segebrecht,lsegebrechtp@bloglovin.com,123-316-5011,2 Sage Drive,2021-03-27,Between200kTo500k,Master,4
+parentid,27,parentid_27,Benoite,Flory,Sango,fsangoq@usatoday.com,107-739-5453,2425 Melby Terrace,2020-02-05,Between50kTo100k,Master,6
+parentid,28,parentid_28,Ethelbert,Aleece,Tinkham,atinkhamr@tinypic.com,531-809-9047,4 Hudson Way,2020-04-13,Between1mTo2m,Secondary,5
+parentid,29,parentid_29,Liza,Alida,Oxburgh,aoxburghs@nsw.gov.au,567-570-1824,13 Sycamore Hill,2023-06-20,Between1mTo2m,Bachelor,3
+parentid,30,parentid_30,Dan,Doe,Rutt,druttt@newyorker.com,722-198-3793,2498 Mifflin Circle,2020-05-21,Between50kTo100k,Diploma,3
+parentid,31,parentid_31,Domini,Desmund,Belward,dbelwardu@theguardian.com,162-669-9091,4 Armistice Junction,2024-01-29,Below50k,Master,2
+parentid,32,parentid_32,Clementia,Arabele,Drinkall,adrinkallv@google.cn,162-484-4397,55729 Sunbrook Lane,2019-11-28,Between100kTo200k,Master,6
+parentid,33,parentid_33,Dolorita,Sissy,Iacobucci,siacobucciw@usgs.gov,318-559-5360,8673 Ridgeview Trail,2023-09-07,Between2mTo5m,Master,5
+parentid,34,parentid_34,Letta,Huey,Behagg,hbehaggx@about.com,155-536-4118,24727 Cambridge Trail,2022-08-03,Between500kTo1m,Bachelor,2
+parentid,35,parentid_35,Gareth,Tucker,Fearnside,tfearnsidey@printfriendly.com,924-263-0650,66 Riverside Hill,2019-11-13,Between50kTo100k,Master,1
+parentid,36,parentid_36,Carleen,Kelli,Scranedge,kscranedgez@zimbio.com,851-986-0276,5 Gerald Terrace,2020-04-13,Between200kTo500k,Diploma,9
+parentid,37,parentid_37,Kellen,Keelby,McBrearty,kmcbrearty10@bandcamp.com,302-993-7647,15 Oxford Hill,2022-08-07,Between1mTo2m,Master,10
+parentid,38,parentid_38,Nicki,Matthias,Benedick,mbenedick11@ovh.net,598-384-6144,33 Bay Hill,2019-08-26,Above5m,Master,3
+parentid,39,parentid_39,Shena,Jakie,Dutson,jdutson12@w3.org,818-874-6711,95455 Hanover Junction,2019-08-12,Between200kTo500k,Bachelor,10
+parentid,40,parentid_40,Cornelle,Luigi,Rosenfield,lrosenfield13@youku.com,522-498-0081,7072 Gateway Plaza,2022-06-17,Between1mTo2m,Bachelor,7
+parentid,41,parentid_41,Elbertine,Magdalen,Fearnsides,mfearnsides14@topsy.com,415-386-9148,8288 Old Shore Circle,2022-06-09,Between500kTo1m,Diploma,6
+parentid,42,parentid_42,Nadiya,Marcos,Philippsohn,mphilippsohn15@godaddy.com,442-426-7104,6 Sachs Terrace,2022-11-27,Between1mTo2m,Primary,7
+parentid,43,parentid_43,Alec,Rakel,Schott,rschott16@cpanel.net,779-627-0693,588 Drewry Place,2023-04-06,Between2mTo5m,Master,8
+parentid,44,parentid_44,Darryl,Dinny,Esmond,desmond17@va.gov,404-605-3895,5 Forest Point,2019-02-24,Between2mTo5m,Other,1
+parentid,45,parentid_45,Yevette,Codee,Dulwich,cdulwich18@telegraph.co.uk,341-487-3681,5 Corben Terrace,2022-10-06,Between500kTo1m,Master,3
+parentid,46,parentid_46,Rex,Devinne,Old,dold19@cmu.edu,658-274-1440,21909 Bay Alley,2019-12-03,Between1mTo2m,Master,4
+parentid,47,parentid_47,Wells,Tanitansy,Brownsall,tbrownsall1a@liveinternet.ru,627-457-1325,3 Coleman Park,2022-03-17,Between2mTo5m,Master,2
+parentid,48,parentid_48,Rikki,Kipp,Creasey,kcreasey1b@state.gov,678-196-4958,09433 Division Place,2021-06-15,Between200kTo500k,Master,1
+parentid,49,parentid_49,Wynn,Thorsten,Kinane,tkinane1c@slashdot.org,669-741-7609,7 Clove Terrace,2023-10-13,Between500kTo1m,Master,1
+parentid,50,parentid_50,Efrem,Lesli,Karlmann,lkarlmann1d@moonfruit.com,146-705-1461,73960 Cambridge Point,2021-06-17,Between200kTo500k,Secondary,6
+parentid,51,parentid_51,Gavin,Heather,Klemensiewicz,hklemensiewicz1e@goodreads.com,941-108-4081,6733 Kropf Circle,2021-01-22,Between200kTo500k,Secondary,8
+parentid,52,parentid_52,Ward,Ardith,Arghent,aarghent1f@epa.gov,137-899-5533,0184 Fairfield Drive,2024-05-23,Between50kTo100k,Master,7
+parentid,53,parentid_53,Grethel,Candice,Lantiffe,clantiffe1g@ow.ly,611-443-9005,352 Mifflin Alley,2022-04-04,Above5m,Bachelor,10
+parentid,54,parentid_54,Clarine,Zachariah,Smale,zsmale1h@example.com,928-994-9454,4196 Columbus Lane,2023-07-27,Between100kTo200k,Bachelor,9
+parentid,55,parentid_55,Darby,Lin,Catford,lcatford1i@odnoklassniki.ru,481-931-6841,9392 Vera Lane,2020-08-03,Above5m,Bachelor,10
+parentid,56,parentid_56,Willa,Julianna,Ianinotti,jianinotti1j@vkontakte.ru,159-788-8837,0 Logan Road,2023-04-02,Between200kTo500k,Master,7
+parentid,57,parentid_57,Nicholle,Anatol,Lergan,alergan1k@usgs.gov,740-420-6899,337 Hovde Parkway,2020-02-20,Between50kTo100k,Bachelor,2
+parentid,58,parentid_58,Cathlene,Arlyn,Dupre,adupre1l@usnews.com,282-856-6592,1 Clyde Gallagher Junction,2022-08-09,Below50k,Master,9
+parentid,59,parentid_59,Zared,Kimball,Fillery,kfillery1m@redcross.org,592-523-7134,6 Sachs Point,2023-01-30,Between1mTo2m,Bachelor,10
+parentid,60,parentid_60,Reeva,Walliw,Clawe,wclawe1n@cyberchimps.com,841-360-8418,982 Sheridan Alley,2024-02-17,Between100kTo200k,Master,5
+parentid,61,parentid_61,Joannes,Nevile,McKee,nmckee1o@telegraph.co.uk,286-731-0006,4 Merchant Court,2023-01-21,Between200kTo500k,Master,10
+parentid,62,parentid_62,Herrick,Jere,Juares,jjuares1p@theatlantic.com,330-404-3524,69281 Marcy Center,2019-05-11,Above5m,Other,1
+parentid,63,parentid_63,Andrei,Neil,Shapcote,nshapcote1q@amazonaws.com,534-191-3669,874 Rutledge Road,2021-10-02,Between100kTo200k,Bachelor,10
+parentid,64,parentid_64,Ed,Far,Kingdom,fkingdom1r@nasa.gov,823-852-8855,390 Portage Circle,2020-07-24,Below50k,Master,9
+parentid,65,parentid_65,Candi,Lukas,Riteley,lriteley1s@rediff.com,323-881-7419,4 Oak Street,2022-11-24,Between100kTo200k,Master,3
+parentid,66,parentid_66,Wylma,Duff,Roscher,droscher1t@gizmodo.com,818-758-4053,85020 Ilene Road,2022-05-04,Above5m,Master,1
+parentid,67,parentid_67,Melany,Meir,Crystal,mcrystal1u@loc.gov,631-467-6624,89485 Doe Crossing Street,2020-09-05,Between2mTo5m,Bachelor,2
+parentid,68,parentid_68,Chancey,Allard,Parren,aparren1v@tinypic.com,766-214-1458,283 Evergreen Pass,2024-03-18,Between100kTo200k,Master,2
+parentid,69,parentid_69,Flinn,Nerte,Larimer,nlarimer1w@nba.com,476-765-5622,300 Mallory Lane,2020-03-30,Between1mTo2m,Bachelor,7
+parentid,70,parentid_70,Hallie,Agosto,Hedgeley,ahedgeley1x@vinaora.com,383-524-1924,770 Namekagon Lane,2020-07-23,Between100kTo200k,Master,8
+parentid,71,parentid_71,Dino,Hervey,Ewles,hewles1y@gnu.org,108-432-9627,438 Susan Parkway,2023-05-21,Above5m,Master,5
+parentid,72,parentid_72,Leona,Alix,Sakins,asakins1z@house.gov,948-162-5470,49215 Barnett Street,2022-05-15,Below50k,Master,3
+parentid,73,parentid_73,Arlina,Nancy,Andreix,nandreix20@vimeo.com,325-491-1502,9 Lunder Plaza,2023-09-30,Between2mTo5m,Master,8
+parentid,74,parentid_74,Iolande,Bengt,Bream,bbream21@usnews.com,153-146-8114,986 Hudson Parkway,2022-12-06,Between1mTo2m,Other,5
+parentid,75,parentid_75,Elsi,Silvanus,Brotherhead,sbrotherhead22@freewebs.com,570-825-0516,53 Victoria Alley,2023-02-15,Below50k,Master,3
+parentid,76,parentid_76,Patrica,Valma,Drissell,vdrissell23@opensource.org,347-465-8764,46072 Darwin Hill,2024-05-26,Between1mTo2m,Master,3
+parentid,77,parentid_77,Shelby,Terry,Pleasance,tpleasance24@theguardian.com,521-550-2452,9038 Rutledge Avenue,2018-12-07,Between200kTo500k,Unknown,7
+parentid,78,parentid_78,Ashley,Kathi,Russen,krussen25@google.ru,971-798-4323,4 Weeping Birch Road,2019-03-14,Between500kTo1m,Bachelor,6
+parentid,79,parentid_79,Klarika,Charles,Yurkevich,cyurkevich26@e-recht24.de,849-393-9036,7128 Holmberg Terrace,2024-06-25,Above5m,Master,1
+parentid,80,parentid_80,Marigold,Ivar,Dantesia,idantesia27@ft.com,641-215-8142,4 Schlimgen Lane,2019-02-02,Between200kTo500k,Master,2
+parentid,81,parentid_81,Brier,Gawain,Ellyatt,gellyatt28@opensource.org,772-161-9806,0 Westport Drive,2021-10-29,Between50kTo100k,Other,4
+parentid,82,parentid_82,Hasty,Clarence,Craine,ccraine29@ebay.co.uk,676-442-1462,46243 Claremont Junction,2022-11-27,Above5m,Bachelor,7
+parentid,83,parentid_83,Shannon,Tiebout,Cornels,tcornels2a@mail.ru,997-588-6466,554 Division Circle,2021-05-22,Between50kTo100k,Master,8
+parentid,84,parentid_84,Kimbra,Johna,Pettiward,jpettiward2b@mysql.com,753-935-2113,00693 Kropf Road,2021-08-10,Below50k,Master,5
+parentid,85,parentid_85,Martin,Brandais,Claypool,bclaypool2c@a8.net,910-647-5349,77 Green Park,2024-05-16,Above5m,Secondary,6
+parentid,86,parentid_86,Fidole,Christie,Androli,candroli2d@mail.ru,418-923-9537,7930 Trailsway Center,2019-04-10,Above5m,Vocational,7
+parentid,87,parentid_87,Bettine,Olin,Celli,ocelli2e@arstechnica.com,806-962-9967,178 Grim Lane,2020-05-10,Below50k,Master,6
+parentid,88,parentid_88,Laurence,Gwenni,Theriot,gtheriot2f@wired.com,649-184-6042,7768 Hazelcrest Park,2023-09-18,Below50k,Master,7
+parentid,89,parentid_89,Marcelle,Jesselyn,Lavis,jlavis2g@instagram.com,869-822-1864,95219 International Park,2023-06-26,Between100kTo200k,Bachelor,5
+parentid,90,parentid_90,Bernette,Bridgette,Boshers,bboshers2h@mayoclinic.com,879-330-1629,85 Butterfield Trail,2023-09-16,Between2mTo5m,Bachelor,9
+parentid,91,parentid_91,Nichols,Roseanna,Fearnall,rfearnall2i@infoseek.co.jp,192-844-6678,49493 Talisman Junction,2024-07-08,Between2mTo5m,Master,3
+parentid,92,parentid_92,Wileen,Huntington,Stebles,hstebles2j@php.net,966-365-6895,4 Anhalt Center,2023-11-20,Above5m,Bachelor,9
+parentid,93,parentid_93,Tripp,Cybil,Svanetti,csvanetti2k@blogtalkradio.com,354-293-4525,4 Talmadge Avenue,2020-07-15,Below50k,Master,6
+parentid,94,parentid_94,Sheff,Korney,Harriskine,kharriskine2l@bandcamp.com,760-945-3482,73649 Debra Center,2020-07-28,Between200kTo500k,Master,9
+parentid,95,parentid_95,Muffin,Jonell,Kedslie,jkedslie2m@a8.net,587-816-6164,646 Kinsman Crossing,2021-03-06,Between100kTo200k,Master,8
+parentid,96,parentid_96,Darill,Cristie,Devanney,cdevanney2n@bbc.co.uk,785-404-9314,7 Mitchell Terrace,2021-10-17,Between200kTo500k,Master,4
+parentid,97,parentid_97,Barbee,Ugo,Biswell,ubiswell2o@github.io,587-392-2191,2 Hoard Plaza,2020-09-20,Below50k,Master,4
+parentid,98,parentid_98,Townsend,Elliott,Bridgwood,ebridgwood2p@businessinsider.com,242-836-6213,0752 Amoth Circle,2019-02-01,Between200kTo500k,Master,4
+parentid,99,parentid_99,Avril,Manon,Goatman,mgoatman2q@ibm.com,912-324-0567,04818 Fallview Lane,2020-09-03,Between1mTo2m,Master,10
+parentid,100,parentid_100,Drew,Ivy,Laurant,ilaurant2r@ifeng.com,641-324-4120,74 Mallory Road,2022-01-04,Between50kTo100k,Master,9
+parentid,101,parentid_101,Ferguson,Arman,Grindlay,agrindlay2s@yandex.ru,707-803-3422,5112 Dwight Place,2023-06-20,Between1mTo2m,Master,10
+parentid,102,parentid_102,Abdel,Rudy,Morffew,rmorffew2t@desdev.cn,859-612-1198,8 Almo Avenue,2018-10-10,Above5m,Master,5
+parentid,103,parentid_103,Annabal,Chelsy,Pattisson,cpattisson2u@ovh.net,679-386-4936,92888 Bobwhite Plaza,2021-09-15,Between1mTo2m,Master,5
+parentid,104,parentid_104,Maitilde,Lucretia,Petris,lpetris2v@ning.com,440-147-9075,516 Grover Place,2023-03-08,Between1mTo2m,Master,2
+parentid,105,parentid_105,Charmine,Eba,Pickrill,epickrill2w@geocities.jp,360-873-1612,1524 Boyd Alley,2020-08-02,Between50kTo100k,Bachelor,7
+parentid,106,parentid_106,Ernesto,Win,Keming,wkeming2x@reference.com,599-384-1892,31 Maple Wood Avenue,2019-12-16,Between50kTo100k,Bachelor,6
+parentid,107,parentid_107,Davide,Marve,Gabbott,mgabbott2y@cocolog-nifty.com,151-791-9712,1240 Weeping Birch Park,2024-04-07,Between50kTo100k,Master,2
+parentid,108,parentid_108,Penn,Merrie,Blasoni,mblasoni2z@bandcamp.com,337-128-2008,52 Eliot Hill,2020-08-27,Between500kTo1m,Master,7
+parentid,109,parentid_109,Wakefield,Bartram,Starbuck,bstarbuck30@baidu.com,196-635-3814,4842 Washington Point,2020-09-05,Between500kTo1m,Master,8
+parentid,110,parentid_110,Colleen,Clem,Van der Brug,cvanderbrug31@google.com.br,691-758-1867,577 Burning Wood Point,2021-05-06,Between50kTo100k,Master,10
+parentid,111,parentid_111,Micky,Claribel,Hurford,churford32@pcworld.com,901-687-3950,4 Butterfield Park,2023-06-05,Above5m,Master,8
+parentid,112,parentid_112,Claudelle,Saree,Corson,scorson33@unesco.org,783-366-9491,9 Rowland Crossing,2024-05-22,Between200kTo500k,Master,10
+parentid,113,parentid_113,Madlen,Marietta,Whitecross,mwhitecross34@yolasite.com,338-692-2658,0 Gina Road,2023-12-16,Between100kTo200k,Master,10
+parentid,114,parentid_114,Romain,Parsifal,Mathew,pmathew35@1und1.de,349-529-3057,81971 Macpherson Hill,2023-07-15,Below50k,Master,4
+parentid,115,parentid_115,Dania,Skelly,Boncore,sboncore36@creativecommons.org,335-508-6703,8401 Fairfield Court,2020-02-22,Between100kTo200k,Master,3
+parentid,116,parentid_116,Quinn,Beale,Brierton,bbrierton37@woothemes.com,303-771-4970,01247 Crownhardt Place,2021-04-12,Between1mTo2m,Bachelor,3
+parentid,117,parentid_117,Merlina,Hilda,Mariet,hmariet38@china.com.cn,658-160-0667,67216 Center Avenue,2019-11-15,Between2mTo5m,Master,1
+parentid,118,parentid_118,Janaye,Warner,Lancett,wlancett39@biglobe.ne.jp,196-916-1430,23 Lotheville Drive,2020-05-05,Between100kTo200k,Master,6
+parentid,119,parentid_119,Waverley,Velvet,Marzelle,vmarzelle3a@mtv.com,273-827-7350,1133 Straubel Plaza,2023-07-20,Between500kTo1m,Master,1
+parentid,120,parentid_120,Karleen,Vail,Lusgdin,vlusgdin3b@loc.gov,488-283-7386,13 Pierstorff Hill,2020-11-15,Between100kTo200k,Bachelor,5
+parentid,121,parentid_121,Dyanne,Natividad,McCathy,nmccathy3c@vkontakte.ru,377-474-6641,72141 Welch Plaza,2022-06-23,Above5m,Bachelor,8
+parentid,122,parentid_122,Benton,Marlin,Faherty,mfaherty3d@dagondesign.com,908-282-8167,7337 Coleman Circle,2023-10-07,Between200kTo500k,Master,6
+parentid,123,parentid_123,Judah,Enrika,Garton,egarton3e@taobao.com,216-905-9754,89 Fisk Avenue,2021-12-19,Below50k,Master,8
+parentid,124,parentid_124,Bernete,Araldo,Caldicott,acaldicott3f@imdb.com,522-935-6064,95894 Delaware Lane,2020-10-12,Between50kTo100k,Master,2
+parentid,125,parentid_125,Garrott,Haskell,Ovitts,hovitts3g@soundcloud.com,651-732-6786,126 Sutherland Drive,2023-08-14,Above5m,Master,2
+parentid,126,parentid_126,Michale,Gwenora,Marsh,gmarsh3h@liveinternet.ru,309-134-7772,62 Grasskamp Drive,2023-12-27,Between50kTo100k,Bachelor,8
+parentid,127,parentid_127,Tanhya,Brewster,Yuryichev,byuryichev3i@google.co.uk,375-980-7999,620 Division Plaza,2023-07-24,Between50kTo100k,Master,7
+parentid,128,parentid_128,Shalne,Tina,Castro,tcastro3j@icq.com,535-585-7071,6905 Vidon Trail,2020-12-22,Between2mTo5m,Master,3
+parentid,129,parentid_129,Luce,Nerty,Hollingshead,nhollingshead3k@spiegel.de,897-474-5803,41 Magdeline Hill,2024-05-21,Above5m,Master,10
+parentid,130,parentid_130,Ewart,Jennine,Provest,jprovest3l@netlog.com,532-447-9026,505 Old Gate Pass,2019-02-02,Between100kTo200k,Master,6
+parentid,131,parentid_131,Tilly,Farlee,McGahy,fmcgahy3m@discovery.com,343-648-8110,74 Becker Alley,2024-09-03,Between2mTo5m,Bachelor,1
+parentid,132,parentid_132,Willabella,Fiorenze,Briskey,fbriskey3n@friendfeed.com,415-986-4914,932 Scofield Plaza,2022-03-02,Between50kTo100k,Master,9
+parentid,133,parentid_133,Xenia,Lauritz,Felmingham,lfelmingham3o@livejournal.com,597-876-5052,872 Fairview Park,2021-09-17,Between1mTo2m,Master,2
+parentid,134,parentid_134,Vassily,Olag,Eefting,oeefting3p@reddit.com,357-538-3145,117 Division Terrace,2024-03-16,Between1mTo2m,Master,10
+parentid,135,parentid_135,Tonye,Brenna,Kilcoyne,bkilcoyne3q@hugedomains.com,776-938-1072,4611 Lunder Drive,2023-05-31,Between2mTo5m,Bachelor,3
+parentid,136,parentid_136,Clementine,Vinson,Gutridge,vgutridge3r@ask.com,218-145-7097,0 Oriole Avenue,2024-02-10,Between500kTo1m,Master,5
+parentid,137,parentid_137,Carlene,Shena,Cliff,scliff3s@craigslist.org,726-574-5527,2 Ramsey Road,2020-03-08,Between1mTo2m,Primary,4
+parentid,138,parentid_138,Maynard,Rurik,Blackshaw,rblackshaw3t@google.com.br,793-723-9987,78474 Acker Drive,2019-08-21,Between1mTo2m,Bachelor,2
+parentid,139,parentid_139,Codee,Aida,Frankis,afrankis3u@time.com,657-302-6716,41 Stang Place,2022-08-31,Between100kTo200k,Master,1
+parentid,140,parentid_140,Gisele,Keelia,Solomonides,ksolomonides3v@gov.uk,722-851-1213,92028 Bobwhite Terrace,2022-10-31,Between500kTo1m,Bachelor,9
+parentid,141,parentid_141,Corabelle,Orlando,Haglington,ohaglington3w@hud.gov,653-674-2125,83731 Stoughton Circle,2021-05-27,Between100kTo200k,Master,9
+parentid,142,parentid_142,Dorthy,Maxi,Serrell,mserrell3x@epa.gov,680-746-0480,46863 Vidon Park,2021-07-28,Below50k,Master,1
+parentid,143,parentid_143,Upton,Babbie,Gudeman,bgudeman3y@timesonline.co.uk,613-827-4774,8 Linden Center,2021-10-27,Above5m,Master,3
+parentid,144,parentid_144,Gwyn,Standford,Cocklin,scocklin3z@gmpg.org,638-210-8149,3 Everett Way,2022-09-29,Between200kTo500k,Master,1
+parentid,145,parentid_145,Rosita,Flori,Wyke,fwyke40@sakura.ne.jp,821-177-3467,0051 Superior Terrace,2018-11-02,Between100kTo200k,Doctoral,8
+parentid,146,parentid_146,Lorrayne,Taite,Frew,tfrew41@howstuffworks.com,952-109-2920,3 Stuart Street,2023-07-19,Below50k,Master,1
+parentid,147,parentid_147,Joyce,Phillip,Rutledge,prutledge42@gmpg.org,692-145-2181,57 Paget Road,2021-08-12,Above5m,Master,1
+parentid,148,parentid_148,Silvan,Derril,Rhydderch,drhydderch43@flickr.com,385-434-4254,692 Golden Leaf Point,2019-07-21,Between100kTo200k,Bachelor,7
+parentid,149,parentid_149,Westleigh,Steffie,Yarnall,syarnall44@house.gov,460-984-6568,78816 Bunting Drive,2024-01-26,Between1mTo2m,Master,6
+parentid,150,parentid_150,Sibella,Bartram,Andrich,bandrich45@umich.edu,229-909-9204,62 Kipling Circle,2019-10-05,Between50kTo100k,Master,7
+parentid,151,parentid_151,Beale,Idelle,Jagiela,ijagiela46@t-online.de,895-448-7353,385 Stoughton Crossing,2019-04-04,Below50k,Master,5
+parentid,152,parentid_152,Matelda,Dalt,Dumini,ddumini47@purevolume.com,820-940-0435,61 Sullivan Street,2019-11-28,Above5m,Master,3
+parentid,153,parentid_153,Kalila,Sky,Morot,smorot48@goo.gl,920-303-3503,8 Moland Lane,2021-06-01,Between2mTo5m,Master,5
+parentid,154,parentid_154,Carolin,Wes,Labro,wlabro49@walmart.com,611-352-0345,3512 Fulton Point,2020-07-07,Between50kTo100k,Bachelor,3
+parentid,155,parentid_155,Leah,Melisenda,Riccione,mriccione4a@ask.com,503-461-5175,7 Main Parkway,2019-03-15,Between1mTo2m,Doctoral,4
+parentid,156,parentid_156,Gaile,Win,Slayny,wslayny4b@nasa.gov,425-528-4073,2 Huxley Road,2019-02-22,Below50k,Doctoral,2
+parentid,157,parentid_157,Saunderson,Dorry,Kedwell,dkedwell4c@reuters.com,345-799-3106,3183 Schurz Court,2019-07-01,Between2mTo5m,Doctoral,8
+parentid,158,parentid_158,Sutton,Adelaida,Bowness,abowness4d@ocn.ne.jp,520-828-2363,89060 Eagan Pass,2020-04-25,Between100kTo200k,Master,10
+parentid,159,parentid_159,Ainslie,Franchot,Akaster,fakaster4e@nymag.com,932-202-9846,7089 Killdeer Alley,2022-07-27,Above5m,Bachelor,3
+parentid,160,parentid_160,Kerrill,Bartlett,Vader,bvader4f@techcrunch.com,889-638-0224,08108 Trailsway Pass,2019-10-06,Between500kTo1m,Bachelor,3
+parentid,161,parentid_161,Marcia,Nannie,Arendsen,narendsen4g@dyndns.org,470-749-6548,22574 Sunnyside Trail,2019-01-09,Between500kTo1m,Master,4
+parentid,162,parentid_162,Addie,Errick,Gliddon,egliddon4h@wp.com,733-323-7471,4208 Blaine Avenue,2024-03-31,Above5m,Doctoral,10
+parentid,163,parentid_163,Newton,Corbin,de Clerk,cdeclerk4i@google.co.uk,843-686-9520,56236 Reindahl Pass,2022-08-27,Between100kTo200k,Master,5
+parentid,164,parentid_164,Braden,Arthur,Hadigate,ahadigate4j@marriott.com,343-151-4825,87390 Heath Center,2023-10-07,Above5m,Master,7
+parentid,165,parentid_165,Cesya,Michale,Wheway,mwheway4k@prnewswire.com,711-562-7233,0954 Carberry Alley,2022-06-30,Between50kTo100k,Master,8
+parentid,166,parentid_166,Lambert,Onfroi,Rawes,orawes4l@admin.ch,629-542-5997,21551 Caliangt Plaza,2024-01-29,Above5m,Unknown,3
+parentid,167,parentid_167,Ad,Doy,Keilloh,dkeilloh4m@bluehost.com,497-138-1425,847 Butterfield Point,2019-10-17,Between200kTo500k,Bachelor,5
+parentid,168,parentid_168,Barn,Shel,Rhead,srhead4n@nymag.com,175-772-5617,97607 Michigan Alley,2019-04-24,Below50k,Master,10
+parentid,169,parentid_169,Germaine,Bartel,Avieson,bavieson4o@merriam-webster.com,824-130-9075,2493 Gerald Street,2020-03-25,Between200kTo500k,Master,6
+parentid,170,parentid_170,Reuven,Devi,Pressey,dpressey4p@prnewswire.com,283-262-9799,06240 Golf Terrace,2023-03-25,Between2mTo5m,Bachelor,3
+parentid,171,parentid_171,Gabey,Daven,Rivitt,drivitt4q@theguardian.com,498-298-1110,07 Hovde Circle,2022-10-07,Below50k,Master,10
+parentid,172,parentid_172,Bernie,Wynne,Jolliss,wjolliss4r@uol.com.br,824-240-1427,03 Roth Crossing,2022-06-20,Between2mTo5m,Master,1
+parentid,173,parentid_173,Dag,Filide,Raymont,fraymont4s@rakuten.co.jp,809-690-3507,065 Maywood Court,2019-10-28,Between500kTo1m,Master,5
+parentid,174,parentid_174,Elmira,Glenine,Clive,gclive4t@devhub.com,692-741-6893,5 Lindbergh Park,2019-08-31,Between100kTo200k,Doctoral,8
+parentid,175,parentid_175,Colas,Monty,De Souza,mdesouza4u@1688.com,452-706-9335,86 Crest Line Trail,2021-02-13,Between200kTo500k,Master,9
+parentid,176,parentid_176,Shina,Anselma,Cluse,acluse4v@mail.ru,157-359-3191,897 Carey Pass,2023-07-29,Between1mTo2m,Master,2
+parentid,177,parentid_177,Diandra,Carl,Llorens,cllorens4w@washington.edu,503-871-9544,286 Columbus Place,2021-04-26,Between100kTo200k,Master,4
+parentid,178,parentid_178,Rosella,Holt,Liddyard,hliddyard4x@bloomberg.com,699-707-7685,2 Glacier Hill Point,2020-05-03,Between200kTo500k,Bachelor,3
+parentid,179,parentid_179,Sibley,Moe,Ethelston,methelston4y@tumblr.com,876-452-4317,41361 Brentwood Place,2022-10-17,Below50k,Bachelor,8
+parentid,180,parentid_180,Charlie,Donia,Orange,dorange4z@weather.com,122-666-6210,828 Vera Road,2023-08-16,Below50k,Master,6
+parentid,181,parentid_181,Ardra,Thaxter,Jeanesson,tjeanesson50@aol.com,242-206-2573,343 Novick Avenue,2018-10-25,Between2mTo5m,Master,4
+parentid,182,parentid_182,Matty,Corry,Matys,cmatys51@cpanel.net,269-833-7327,9278 Elmside Circle,2022-03-15,Below50k,Master,5
+parentid,183,parentid_183,Bevan,Caroline,Tatersale,ctatersale52@imageshack.us,697-846-7955,9168 Jackson Street,2023-05-03,Between200kTo500k,Bachelor,10
+parentid,184,parentid_184,Ashien,Prince,Camelin,pcamelin53@businesswire.com,672-760-7845,1335 Cordelia Court,2020-01-23,Below50k,Other,2
+parentid,185,parentid_185,Horatio,Burg,Metcalf,bmetcalf54@gizmodo.com,222-185-7406,5 Evergreen Hill,2020-07-04,Between50kTo100k,Other,10
+parentid,186,parentid_186,Sloan,Florie,Attow,fattow55@tmall.com,763-428-8952,500 Kedzie Alley,2021-04-02,Between1mTo2m,Master,4
+parentid,187,parentid_187,Elbertine,Melba,Morehall,mmorehall56@slate.com,561-364-4767,01134 Elgar Parkway,2020-01-06,Between100kTo200k,Master,5
+parentid,188,parentid_188,Garnette,Aggie,Anslow,aanslow57@sfgate.com,625-490-8978,54 Burning Wood Circle,2021-09-30,Between500kTo1m,Master,5
+parentid,189,parentid_189,Reggis,Stafani,McCorry,smccorry58@google.co.jp,945-907-0984,88276 Anhalt Plaza,2023-07-22,Between2mTo5m,Master,8
+parentid,190,parentid_190,Burton,Sloane,Chivrall,schivrall59@prlog.org,255-598-7881,8 Brown Plaza,2022-12-31,Below50k,Master,7
+parentid,191,parentid_191,Devonne,Elysha,Malmar,emalmar5a@dmoz.org,769-231-1764,85 Pine View Lane,2022-05-28,Between1mTo2m,Master,1
+parentid,192,parentid_192,Ricardo,Audra,Crigin,acrigin5b@360.cn,543-990-8513,43540 Debra Plaza,2021-11-14,Below50k,Master,9
+parentid,193,parentid_193,Kin,Beitris,Enterle,benterle5c@bluehost.com,778-672-8317,80 Glendale Court,2024-03-19,Between100kTo200k,Bachelor,9
+parentid,194,parentid_194,Faber,Raff,Gallacher,rgallacher5d@cpanel.net,390-762-2736,35357 Pepper Wood Point,2024-04-26,Between1mTo2m,Master,6
+parentid,195,parentid_195,Godwin,Kelly,Hember,khember5e@1688.com,466-451-9493,18 Arapahoe Center,2020-11-20,Between500kTo1m,Other,3
+parentid,196,parentid_196,Web,Aveline,Harborow,aharborow5f@princeton.edu,768-482-1525,141 Havey Street,2018-11-29,Between1mTo2m,Master,7
+parentid,197,parentid_197,Halimeda,Ardeen,Brumen,abrumen5g@va.gov,824-298-1789,7 American Trail,2023-05-04,Between100kTo200k,Master,8
+parentid,198,parentid_198,Jodee,Griffin,Nockles,gnockles5h@oaic.gov.au,827-615-5886,4176 Green Ridge Road,2020-07-13,Between500kTo1m,Master,1
+parentid,199,parentid_199,Byrle,Shayla,Goodram,sgoodram5i@ebay.co.uk,100-396-9423,363 Manley Court,2024-04-01,Between200kTo500k,Master,4
+parentid,200,parentid_200,Giraldo,Collin,Grafom,cgrafom5j@simplemachines.org,844-906-3318,25745 East Lane,2023-11-28,Between50kTo100k,Master,8
+parentid,201,parentid_201,Missy,Janeczka,Backshall,jbackshall5k@jalbum.net,545-295-8306,17302 Mendota Center,2021-11-26,Between100kTo200k,Master,3
+parentid,202,parentid_202,Scarface,Charmane,Matteuzzi,cmatteuzzi5l@archive.org,701-572-9490,32 Hoepker Point,2020-02-16,Between200kTo500k,Master,2
+parentid,203,parentid_203,Hubert,Cinda,Stille,cstille5m@upenn.edu,954-417-5467,84 Mallory Park,2022-07-02,Between500kTo1m,Bachelor,6
+parentid,204,parentid_204,Rinaldo,Addy,Bonnefin,abonnefin5n@yahoo.com,104-537-7319,41 Stang Point,2022-12-23,Between100kTo200k,Master,2
+parentid,205,parentid_205,Velvet,Rene,Fetherston,rfetherston5o@twitpic.com,136-821-7080,4 Dayton Drive,2020-11-07,Between500kTo1m,Master,4
+parentid,206,parentid_206,Belicia,Benjamin,Wilcocke,bwilcocke5p@163.com,686-280-9947,26 Mockingbird Crossing,2023-04-23,Between500kTo1m,Master,4
+parentid,207,parentid_207,Renado,Saxon,Carmo,scarmo5q@forbes.com,337-963-2899,19 Shoshone Place,2021-10-18,Above5m,Bachelor,8
+parentid,208,parentid_208,Eyde,Chlo,Leaney,cleaney5r@sbwire.com,885-737-0196,841 Moulton Road,2023-10-25,Between200kTo500k,Unknown,6
+parentid,209,parentid_209,Emlyn,Jorie,Clucas,jclucas5s@ftc.gov,309-698-6621,9 5th Circle,2021-04-21,Above5m,Master,3
+parentid,210,parentid_210,Kim,Marie,Frostdicke,mfrostdicke5t@ycombinator.com,245-892-3936,745 Di Loreto Crossing,2023-09-27,Between200kTo500k,Master,3
+parentid,211,parentid_211,Vivyanne,Merrile,Vayro,mvayro5u@mail.ru,905-857-0772,01 Daystar Lane,2018-10-13,Between1mTo2m,Doctoral,1
+parentid,212,parentid_212,Polly,Axel,Gilliatt,agilliatt5v@creativecommons.org,211-264-0755,74445 Sachs Road,2022-07-21,Between2mTo5m,Master,4
+parentid,213,parentid_213,Merci,Doralyn,Flancinbaum,dflancinbaum5w@admin.ch,606-430-7735,83373 Thompson Trail,2024-03-15,Between200kTo500k,Other,7
+parentid,214,parentid_214,Tobye,Curt,Scotson,cscotson5x@networkadvertising.org,417-699-6899,16 Aberg Circle,2023-01-08,Above5m,Master,9
+parentid,215,parentid_215,Allyson,Virgilio,Cussen,vcussen5y@woothemes.com,592-936-2923,51991 Vermont Pass,2024-05-29,Below50k,Bachelor,6
+parentid,216,parentid_216,Libby,Hamlen,Attle,hattle5z@youku.com,573-172-0648,30 Parkside Pass,2021-04-14,Above5m,Bachelor,9
+parentid,217,parentid_217,Barthel,Beatrix,Halpine,bhalpine60@amazon.co.jp,126-153-6335,5 Nancy Plaza,2019-03-31,Below50k,Master,2
+parentid,218,parentid_218,Fraser,Christy,Mullan,cmullan61@so-net.ne.jp,654-966-8116,71 Gateway Center,2021-06-27,Below50k,Bachelor,2
+parentid,219,parentid_219,Karylin,Ronalda,Nono,rnono62@virginia.edu,695-222-1280,07 Oak Valley Drive,2024-08-19,Between500kTo1m,Bachelor,4
+parentid,220,parentid_220,Anna,Ignace,Woolfall,iwoolfall63@friendfeed.com,519-382-1256,2 Moland Drive,2022-06-02,Between50kTo100k,Bachelor,10
+parentid,221,parentid_221,Neely,Cindi,Agett,cagett64@wordpress.com,172-297-9625,686 Marcy Drive,2020-08-25,Above5m,Bachelor,5
+parentid,222,parentid_222,Bailie,Prudi,Peeter,ppeeter65@abc.net.au,603-102-9084,57 Mosinee Court,2018-10-01,Between1mTo2m,Master,4
+parentid,223,parentid_223,Hyacintha,Elena,Rawlinson,erawlinson66@harvard.edu,320-747-7859,5 Onsgard Drive,2020-04-10,Between50kTo100k,Master,8
+parentid,224,parentid_224,Ambros,Isis,Tully,itully67@howstuffworks.com,474-498-4448,44444 Fairview Junction,2020-07-11,Between50kTo100k,Master,3
+parentid,225,parentid_225,Bernice,Claudian,Leighton,cleighton68@youtu.be,801-391-5789,719 Norway Maple Circle,2021-12-06,Between50kTo100k,Other,8
+parentid,226,parentid_226,Beverie,Cosmo,Heinsh,cheinsh69@clickbank.net,671-475-5445,79 Burrows Place,2019-06-04,Between500kTo1m,Master,10
+parentid,227,parentid_227,Roth,Rowan,Veschambes,rveschambes6a@un.org,377-986-0449,9 Golf Course Place,2019-04-15,Between100kTo200k,Master,4
+parentid,228,parentid_228,Emmalyn,Allie,Graalman,agraalman6b@upenn.edu,439-902-3858,20245 Barby Road,2021-05-21,Above5m,Master,10
+parentid,229,parentid_229,Emanuel,Lanita,Harcus,lharcus6c@imgur.com,559-439-4258,35081 Merchant Crossing,2022-01-06,Between500kTo1m,Master,7
+parentid,230,parentid_230,Bert,Euell,Naish,enaish6d@macromedia.com,637-640-1983,0 Dapin Point,2022-05-30,Between1mTo2m,Master,5
+parentid,231,parentid_231,Lemmy,Thalia,Coveny,tcoveny6e@baidu.com,377-250-7339,68 Dixon Lane,2022-03-28,Between2mTo5m,Master,2
+parentid,232,parentid_232,Orion,Jessie,Fisher,jfisher6f@va.gov,594-248-1131,68 Cascade Road,2022-10-24,Between500kTo1m,Master,1
+parentid,233,parentid_233,Elinore,Ernaline,Savoury,esavoury6g@nifty.com,464-436-6866,34115 Old Shore Avenue,2024-07-24,Below50k,Master,4
+parentid,234,parentid_234,Rosemaria,Elfrida,Lawrence,elawrence6h@reddit.com,406-133-7559,21767 Claremont Parkway,2023-11-07,Between100kTo200k,Bachelor,6
+parentid,235,parentid_235,Caresse,Dodie,Hurtado,dhurtado6i@alexa.com,992-537-7520,680 Oxford Alley,2020-10-07,Between50kTo100k,Master,2
+parentid,236,parentid_236,Carlee,Hardy,Yvens,hyvens6j@spotify.com,152-844-1426,262 Bultman Crossing,2024-02-03,Above5m,Unknown,9
+parentid,237,parentid_237,Lina,Faye,Ussher,fussher6k@miibeian.gov.cn,158-128-5995,00751 Eastlawn Point,2020-08-01,Between500kTo1m,Master,5
+parentid,238,parentid_238,Abigale,Delmer,Bass,dbass6l@dedecms.com,476-274-6283,31941 Moose Court,2023-06-12,Between100kTo200k,Master,9
+parentid,239,parentid_239,Fania,Cleon,Klemensiewicz,cklemensiewicz6m@scribd.com,165-246-4592,6 Anniversary Center,2021-09-02,Above5m,Doctoral,2
+parentid,240,parentid_240,Shaine,Julian,Shervil,jshervil6n@cdc.gov,910-783-5760,1286 Granby Park,2020-06-15,Between50kTo100k,Master,2
+parentid,241,parentid_241,Parry,Barbaraanne,Favill,bfavill6o@unblog.fr,651-829-3646,0 Hanson Center,2022-09-28,Between100kTo200k,Master,3
+parentid,242,parentid_242,Myron,Marcelle,Sealand,msealand6p@canalblog.com,371-996-6766,059 Northwestern Plaza,2022-10-10,Below50k,Master,10
+parentid,243,parentid_243,Tremaine,Antonetta,Leacock,aleacock6q@google.co.jp,690-229-2000,1286 Brown Parkway,2021-01-26,Between50kTo100k,Secondary,9
+parentid,244,parentid_244,Analiese,Jorge,Bartholomew,jbartholomew6r@springer.com,348-413-9309,652 Harper Street,2022-11-28,Between1mTo2m,Bachelor,4
+parentid,245,parentid_245,Hadleigh,Letti,Denzilow,ldenzilow6s@patch.com,495-647-2242,99312 Maple Court,2019-07-22,Below50k,Master,5
+parentid,246,parentid_246,Kit,Shae,Dopson,sdopson6t@bluehost.com,386-488-5888,97 Dottie Circle,2021-09-12,Between50kTo100k,Master,2
+parentid,247,parentid_247,Sharyl,Selma,Pilipets,spilipets6u@canalblog.com,558-357-4130,98623 Veith Park,2022-11-12,Between100kTo200k,Master,7
+parentid,248,parentid_248,Udall,Thane,Peers,tpeers6v@ameblo.jp,516-249-7885,7 Artisan Point,2023-03-23,Above5m,Master,7
+parentid,249,parentid_249,Trstram,Vinnie,Durkin,vdurkin6w@usnews.com,817-716-3228,374 Novick Way,2019-08-04,Between100kTo200k,Doctoral,10
+parentid,250,parentid_250,Prince,Fons,Coggins,fcoggins6x@jimdo.com,281-935-2302,1614 Division Circle,2023-12-16,Below50k,Master,3
+parentid,251,parentid_251,Wyndham,Daniella,Cow,dcow6y@i2i.jp,392-994-3071,47340 Waywood Place,2024-09-23,Between2mTo5m,Master,3
+parentid,252,parentid_252,Araldo,Carilyn,Quarles,cquarles6z@army.mil,768-265-8580,518 Artisan Crossing,2024-09-25,Between2mTo5m,Bachelor,3
+parentid,253,parentid_253,Gregory,Greggory,Udy,gudy70@dropbox.com,557-816-1603,178 Elmside Trail,2024-03-10,Between500kTo1m,Bachelor,10
+parentid,254,parentid_254,Bernard,Caty,Domenici,cdomenici71@paypal.com,148-435-5162,1894 Buell Road,2019-05-01,Between1mTo2m,Master,8
+parentid,255,parentid_255,Brina,Caleb,Cradoc,ccradoc72@mapy.cz,129-302-5455,8 Maple Drive,2024-04-26,Between1mTo2m,Master,4
+parentid,256,parentid_256,Ariel,Sarena,Weatherhill,sweatherhill73@i2i.jp,774-592-9316,82 Victoria Point,2019-08-26,Above5m,Master,6
+parentid,257,parentid_257,Libbie,Wainwright,Van Giffen,wvangiffen74@ustream.tv,196-968-8350,1 Merrick Junction,2020-08-16,Between50kTo100k,Master,8
+parentid,258,parentid_258,Gloriana,Bernice,Grishukov,bgrishukov75@youtube.com,384-549-7518,17 6th Hill,2023-05-20,Between200kTo500k,Master,3
+parentid,259,parentid_259,Sabina,Alexandre,Soame,asoame76@bigcartel.com,760-676-1069,6030 Ludington Place,2023-01-06,Between100kTo200k,Master,4
+parentid,260,parentid_260,Madge,Gregg,Ryam,gryam77@mail.ru,187-588-4634,8 Becker Drive,2023-05-28,Between100kTo200k,Bachelor,2
+parentid,261,parentid_261,Marne,Damon,Gulleford,dgulleford78@guardian.co.uk,158-132-5428,648 Green Ridge Road,2024-09-08,Between100kTo200k,Bachelor,6
+parentid,262,parentid_262,Dorthea,Jessy,Bilbrooke,jbilbrooke79@blinklist.com,576-233-6898,54114 Emmet Circle,2024-01-17,Below50k,Doctoral,4
+parentid,263,parentid_263,Karlan,Hilliary,Gudyer,hgudyer7a@soundcloud.com,769-824-4309,72667 Arkansas Street,2020-08-28,Between50kTo100k,Master,9
+parentid,264,parentid_264,Edwina,Korie,Gardiner,kgardiner7b@reuters.com,696-381-1767,71 Vermont Plaza,2020-11-24,Below50k,Master,2
+parentid,265,parentid_265,Muire,Dillie,Dadson,ddadson7c@xrea.com,803-174-3627,231 Green Road,2019-07-28,Below50k,Master,9
+parentid,266,parentid_266,Rickard,Cullan,Besque,cbesque7d@sciencedirect.com,562-303-1155,945 Reindahl Trail,2018-11-29,Between2mTo5m,Master,9
+parentid,267,parentid_267,Goober,Adolph,McLellan,amclellan7e@hhs.gov,387-349-5314,59 Twin Pines Pass,2019-01-01,Above5m,Master,9
+parentid,268,parentid_268,Bevin,Stavros,Bowering,sbowering7f@moonfruit.com,105-194-8036,44 Holmberg Parkway,2023-03-31,Between1mTo2m,Master,3
+parentid,269,parentid_269,Nestor,Bond,Kinvig,bkinvig7g@de.vu,619-199-2143,19610 Portage Circle,2021-07-02,Between50kTo100k,Bachelor,10
+parentid,270,parentid_270,Wilmar,Lira,Flaxman,lflaxman7h@cpanel.net,518-259-6429,843 Division Drive,2020-03-10,Between100kTo200k,Vocational,7
+parentid,271,parentid_271,Gerhard,Ibby,Kuschek,ikuschek7i@epa.gov,531-384-8223,2529 Carberry Road,2019-01-06,Between500kTo1m,Bachelor,6
+parentid,272,parentid_272,Corey,Bobbi,Swatridge,bswatridge7j@google.co.uk,800-203-3016,643 Homewood Road,2021-03-19,Between100kTo200k,Vocational,10
+parentid,273,parentid_273,Cameron,Stormie,Canham,scanham7k@merriam-webster.com,865-110-9720,13 Kings Hill,2023-09-27,Below50k,Other,1
+parentid,274,parentid_274,Steffie,Tanhya,Miners,tminers7l@slate.com,691-369-2275,73 1st Pass,2020-09-10,Between2mTo5m,Primary,3
+parentid,275,parentid_275,Chet,Frederique,Boswell,fboswell7m@dmoz.org,205-468-4479,730 Stephen Place,2023-08-21,Between200kTo500k,Master,7
+parentid,276,parentid_276,Hadley,Loralie,Skirvin,lskirvin7n@networksolutions.com,118-238-6562,1 Almo Crossing,2022-04-18,Below50k,Bachelor,5
+parentid,277,parentid_277,Ira,Clotilda,Butter,cbutter7o@buzzfeed.com,694-627-6901,828 Lien Junction,2022-09-09,Between1mTo2m,Bachelor,8
+parentid,278,parentid_278,Arlin,Theodora,Pleaden,tpleaden7p@mit.edu,644-948-3447,3 Marcy Junction,2022-01-04,Between2mTo5m,Master,7
+parentid,279,parentid_279,Corinne,Fredericka,Bartlosz,fbartlosz7q@fema.gov,627-464-1251,72 Pleasure Circle,2024-09-27,Between50kTo100k,Master,6
+parentid,280,parentid_280,Harriott,Thaine,Foffano,tfoffano7r@pinterest.com,211-233-3069,4230 Forest Run Circle,2023-07-29,Above5m,Master,3
+parentid,281,parentid_281,Aviva,Addy,Meeke,ameeke7s@msn.com,118-369-6541,9 David Alley,2024-03-05,Between500kTo1m,Doctoral,1
+parentid,282,parentid_282,Cortie,Ethelda,Gilchrist,egilchrist7t@bigcartel.com,665-273-5696,31911 Maple Street,2018-12-30,Between200kTo500k,Bachelor,6
+parentid,283,parentid_283,Ave,Flss,Dilgarno,fdilgarno7u@godaddy.com,376-530-1600,4 Anthes Crossing,2019-05-29,Between2mTo5m,Master,1
+parentid,284,parentid_284,Will,Tedi,Grzes,tgrzes7v@businessinsider.com,364-460-1597,12 Mallory Place,2021-11-21,Above5m,Vocational,4
+parentid,285,parentid_285,Cam,Dukey,Bensusan,dbensusan7w@mtv.com,634-988-7917,5803 Lillian Point,2023-05-08,Above5m,Master,8
+parentid,286,parentid_286,Sada,Jody,Antrag,jantrag7x@kickstarter.com,803-636-0796,6 Trailsway Trail,2019-08-28,Below50k,Master,3
+parentid,287,parentid_287,Kizzee,Fitz,Trivett,ftrivett7y@google.com.hk,570-355-6210,97 Lyons Pass,2023-09-02,Between100kTo200k,Diploma,10
+parentid,288,parentid_288,Teirtza,Salaidh,Iseton,siseton7z@intel.com,122-433-6125,0637 Utah Crossing,2019-08-06,Above5m,Master,6
+parentid,289,parentid_289,Fanny,David,Iglesia,diglesia80@csmonitor.com,187-221-4709,7 Cherokee Alley,2023-11-20,Above5m,Master,1
+parentid,290,parentid_290,Dolly,Jessamine,Tante,jtante81@hatena.ne.jp,989-214-6401,2 Eagan Place,2019-01-31,Below50k,Master,6
+parentid,291,parentid_291,Mandy,Mikey,Rebillard,mrebillard82@businesswire.com,292-876-3513,64 Karstens Circle,2022-03-03,Above5m,Bachelor,1
+parentid,292,parentid_292,Clark,Clint,Panner,cpanner83@myspace.com,988-133-2952,76 Cherokee Avenue,2022-07-10,Below50k,Master,3
+parentid,293,parentid_293,Ric,Simeon,Alaway,salaway84@goo.ne.jp,924-860-7665,49624 West Junction,2022-08-12,Between2mTo5m,Bachelor,9
+parentid,294,parentid_294,Gunter,Jacinthe,Codman,jcodman85@fda.gov,463-928-0263,30440 Melrose Lane,2024-04-08,Between1mTo2m,Master,9
+parentid,295,parentid_295,Arvy,Phip,Keneforde,pkeneforde86@dot.gov,153-721-8471,57645 Buell Parkway,2021-02-23,Between50kTo100k,Master,4
+parentid,296,parentid_296,Dasha,Gian,Filippazzo,gfilippazzo87@ustream.tv,187-253-9539,9 Bunting Court,2024-03-11,Between500kTo1m,Master,9
+parentid,297,parentid_297,Staffard,Darcey,Mingaud,dmingaud88@sphinn.com,628-397-1914,06 Eastlawn Center,2022-08-29,Between1mTo2m,Master,7
+parentid,298,parentid_298,Reed,Caryn,Imlaw,cimlaw89@buzzfeed.com,410-867-0162,09060 Moose Circle,2020-06-15,Between1mTo2m,Unknown,9
+parentid,299,parentid_299,Jimmie,Edi,Pridding,epridding8a@intel.com,498-424-5488,36 Morningstar Street,2019-04-19,Between2mTo5m,Master,2
+parentid,300,parentid_300,Ollie,Sara,Valti,svalti8b@ftc.gov,721-133-6463,0144 Dottie Point,2021-01-09,Below50k,Bachelor,6
+parentid,301,parentid_301,Rea,Deb,Hanhart,dhanhart8c@taobao.com,108-748-7056,4 Sycamore Terrace,2020-03-27,Between100kTo200k,Master,1
+parentid,302,parentid_302,Robinette,Fredra,Semorad,fsemorad8d@bandcamp.com,157-332-4621,7 Muir Court,2023-02-21,Between200kTo500k,Master,1
+parentid,303,parentid_303,Micki,Nigel,Oliffe,noliffe8e@csmonitor.com,642-740-3356,99366 Loftsgordon Crossing,2023-02-28,Between200kTo500k,Bachelor,1
+parentid,304,parentid_304,Christie,Benny,Rees,brees8f@msn.com,692-614-7612,80924 School Way,2021-12-01,Between1mTo2m,Master,6
+parentid,305,parentid_305,Gifford,Dulcea,Habben,dhabben8g@g.co,785-937-9967,979 Swallow Junction,2019-10-04,Between200kTo500k,Primary,2
+parentid,306,parentid_306,Andie,Christin,Trainer,ctrainer8h@dyndns.org,197-422-1926,13 Holy Cross Parkway,2023-10-15,Below50k,Master,10
+parentid,307,parentid_307,Rosella,Standford,Bussy,sbussy8i@fotki.com,453-420-3961,4 Logan Drive,2021-11-24,Between100kTo200k,Master,1
+parentid,308,parentid_308,Gilbertina,Mattias,Jimes,mjimes8j@bloomberg.com,159-447-3954,482 Maryland Lane,2018-10-25,Between1mTo2m,Master,5
+parentid,309,parentid_309,Bryon,Donni,Powley,dpowley8k@networkadvertising.org,385-339-8275,88871 Anderson Trail,2022-03-24,Above5m,Bachelor,6
+parentid,310,parentid_310,Raeann,Miran,Burborough,mburborough8l@bing.com,340-748-5978,2340 Summer Ridge Place,2021-03-08,Below50k,Master,3
+parentid,311,parentid_311,Patten,Sabina,Ick,sick8m@fotki.com,305-359-6991,9 Toban Drive,2020-01-26,Between200kTo500k,Master,6
+parentid,312,parentid_312,Joline,Marge,Renison,mrenison8n@noaa.gov,260-142-1847,8 Thierer Drive,2019-09-15,Between2mTo5m,Master,2
+parentid,313,parentid_313,Kippie,Christiano,Cundict,ccundict8o@slashdot.org,393-460-3255,2 Anthes Drive,2023-02-27,Between50kTo100k,Master,1
+parentid,314,parentid_314,Adorne,Dru,Rainville,drainville8p@soundcloud.com,360-196-9431,9 Fairview Center,2020-01-05,Between200kTo500k,Master,2
+parentid,315,parentid_315,Dunc,Bliss,Spinetti,bspinetti8q@constantcontact.com,793-220-0605,9537 Corben Terrace,2022-09-02,Between2mTo5m,Master,1
+parentid,316,parentid_316,Flory,Pavla,Van Hove,pvanhove8r@newsvine.com,345-563-4932,71 Hooker Park,2020-06-22,Between2mTo5m,Bachelor,5
+parentid,317,parentid_317,Sada,Druci,Conichie,dconichie8s@csmonitor.com,964-160-6433,6 Dixon Drive,2021-04-13,Between1mTo2m,Unknown,9
+parentid,318,parentid_318,Conchita,Orion,Wasselin,owasselin8t@people.com.cn,976-190-3946,6 Norway Maple Drive,2024-04-24,Between1mTo2m,Master,10
+parentid,319,parentid_319,Florie,Sascha,Chansonne,schansonne8u@mail.ru,417-617-9913,0226 Daystar Center,2019-04-28,Between50kTo100k,Master,10
+parentid,320,parentid_320,George,Cloris,Wolver,cwolver8v@jalbum.net,422-131-4605,9357 Melody Circle,2019-02-19,Between500kTo1m,Secondary,3
+parentid,321,parentid_321,Ozzie,Myrah,Whartonby,mwhartonby8w@imdb.com,739-626-5864,55211 Dryden Junction,2022-03-06,Between2mTo5m,Bachelor,5
+parentid,322,parentid_322,Ulla,Ashlen,Yarnley,ayarnley8x@google.pl,441-228-0079,824 Nelson Junction,2020-02-29,Between100kTo200k,Master,9
+parentid,323,parentid_323,Baillie,Bernadette,Gouldie,bgouldie8y@nyu.edu,479-444-1990,43693 Melody Point,2021-11-18,Between100kTo200k,Master,5
+parentid,324,parentid_324,Lennie,Adelbert,Hobben,ahobben8z@tiny.cc,880-564-2888,962 Golf Course Drive,2021-02-20,Between500kTo1m,Master,1
+parentid,325,parentid_325,Tomkin,Zaria,Haney,zhaney90@archive.org,660-146-9506,0 Dawn Point,2023-06-08,Between500kTo1m,Doctoral,8
+parentid,326,parentid_326,Reagen,Dredi,Vigurs,dvigurs91@so-net.ne.jp,591-522-9136,55210 Texas Street,2019-05-12,Between100kTo200k,Master,6
+parentid,327,parentid_327,Otis,Minetta,Coppo,mcoppo92@discuz.net,706-307-2803,76 Golf View Trail,2022-11-09,Between500kTo1m,Master,4
+parentid,328,parentid_328,Adelina,Bren,Whal,bwhal93@wikia.com,712-767-0674,702 Kennedy Parkway,2022-04-23,Between2mTo5m,Bachelor,9
+parentid,329,parentid_329,Kelwin,Cindee,Dwine,cdwine94@woothemes.com,464-689-2660,79953 Carpenter Alley,2020-05-29,Between100kTo200k,Master,8
+parentid,330,parentid_330,Oriana,Orelee,Tomicki,otomicki95@clickbank.net,710-624-2627,8 Susan Place,2021-04-24,Between1mTo2m,Other,1
+parentid,331,parentid_331,Whittaker,Judas,Davy,jdavy96@goodreads.com,346-499-4283,9 Thierer Hill,2023-02-21,Between500kTo1m,Master,10
+parentid,332,parentid_332,Anton,Shermy,Muzzini,smuzzini97@dailymotion.com,613-211-9314,4 Thackeray Hill,2018-10-21,Between200kTo500k,Master,2
+parentid,333,parentid_333,Dulcia,Hilary,Peeter,hpeeter98@samsung.com,917-197-0735,36 South Court,2022-10-14,Between200kTo500k,Unknown,4
+parentid,334,parentid_334,Constance,Giselbert,Franceschino,gfranceschino99@ucsd.edu,543-645-1852,21 Debs Terrace,2019-03-19,Between100kTo200k,Bachelor,8
+parentid,335,parentid_335,Lamar,Carmella,Macilhench,cmacilhench9a@gravatar.com,877-307-0270,5528 Brown Avenue,2023-07-11,Below50k,Master,6
+parentid,336,parentid_336,Denise,Alexander,Farrand,afarrand9b@unesco.org,221-938-9912,52227 Meadow Valley Hill,2022-09-02,Above5m,Master,4
+parentid,337,parentid_337,Genny,Corbie,Shipp,cshipp9c@reverbnation.com,741-769-7310,60 Fremont Plaza,2019-05-21,Between100kTo200k,Bachelor,9
+parentid,338,parentid_338,Gaelan,Mareah,Agius,magius9d@php.net,874-760-6087,80923 Moulton Pass,2023-07-18,Between100kTo200k,Master,5
+parentid,339,parentid_339,Louise,Morty,Wandrack,mwandrack9e@nih.gov,690-294-7232,92049 Sage Hill,2023-07-21,Below50k,Bachelor,1
+parentid,340,parentid_340,Darren,Aleksandr,Hort,ahort9f@lycos.com,729-546-6172,02071 Charing Cross Junction,2022-10-17,Between50kTo100k,Master,8
+parentid,341,parentid_341,Upton,Christean,Cuniffe,ccuniffe9g@rambler.ru,423-214-7066,504 Michigan Parkway,2020-09-25,Above5m,Master,10
+parentid,342,parentid_342,Fayette,Rosalia,Thornton,rthornton9h@privacy.gov.au,872-483-6718,05 Di Loreto Plaza,2024-01-02,Between50kTo100k,Master,6
+parentid,343,parentid_343,Janka,Lew,Gault,lgault9i@google.ru,105-412-4040,1528 Melby Hill,2022-10-14,Between50kTo100k,Master,1
+parentid,344,parentid_344,Jobey,Emalia,Tomaskunas,etomaskunas9j@economist.com,379-417-9779,4385 Forster Trail,2020-08-01,Between50kTo100k,Doctoral,1
+parentid,345,parentid_345,Linc,Isac,Bernucci,ibernucci9k@lulu.com,409-641-0296,06 Village Green Park,2022-01-02,Between100kTo200k,Master,8
+parentid,346,parentid_346,Kristos,Jesselyn,Daudray,jdaudray9l@slashdot.org,190-132-2321,15 Golden Leaf Road,2021-07-28,Above5m,Master,7
+parentid,347,parentid_347,Shellysheldon,Caron,Pele,cpele9m@tmall.com,980-732-5506,86 Towne Hill,2018-12-30,Above5m,Master,5
+parentid,348,parentid_348,Myca,Nelle,McGowran,nmcgowran9n@bloomberg.com,743-912-4719,6 Goodland Street,2022-05-07,Between500kTo1m,Bachelor,1
+parentid,349,parentid_349,Hillyer,Virgie,Slemming,vslemming9o@cdbaby.com,756-818-7981,7857 Debs Circle,2022-08-02,Between200kTo500k,Master,10
+parentid,350,parentid_350,Thalia,Burch,Mearing,bmearing9p@bizjournals.com,402-405-1994,0 Sunnyside Street,2021-05-23,Between500kTo1m,Master,10
+parentid,351,parentid_351,Delainey,Almeta,Moreland,amoreland9q@yale.edu,256-700-5927,057 Jackson Court,2018-11-13,Between100kTo200k,Bachelor,8
+parentid,352,parentid_352,Lethia,Barty,Tessier,btessier9r@bluehost.com,637-747-0427,28219 Lunder Court,2023-07-27,Between200kTo500k,Master,10
+parentid,353,parentid_353,Hughie,Jaynell,Milne,jmilne9s@dailymotion.com,397-573-8245,1 Grover Point,2023-07-31,Between100kTo200k,Master,6
+parentid,354,parentid_354,Clyde,Adolphe,Eate,aeate9t@1und1.de,944-121-7974,3 Dwight Circle,2021-05-02,Between2mTo5m,Bachelor,6
+parentid,355,parentid_355,Cornelle,Bethany,Hotchkin,bhotchkin9u@hibu.com,361-774-5773,2 Twin Pines Terrace,2022-04-30,Between2mTo5m,Unknown,3
+parentid,356,parentid_356,Vivie,Eirena,Edmonson,eedmonson9v@dmoz.org,499-818-2774,2 Dottie Park,2021-09-02,Between1mTo2m,Master,2
+parentid,357,parentid_357,Jemima,Chester,Leadbeater,cleadbeater9w@blogtalkradio.com,646-978-5914,0 Muir Alley,2019-07-21,Above5m,Master,4
+parentid,358,parentid_358,Ignaz,Ambur,Pirdue,apirdue9x@51.la,451-685-7678,85413 Esch Parkway,2020-08-19,Between2mTo5m,Master,3
+parentid,359,parentid_359,Jolynn,Roana,Dodamead,rdodamead9y@liveinternet.ru,566-825-6017,7 Talisman Center,2024-01-29,Between1mTo2m,Master,3
+parentid,360,parentid_360,Adrian,Boy,Buddington,bbuddington9z@privacy.gov.au,149-522-8369,96548 Boyd Center,2021-07-22,Between50kTo100k,Master,3
+parentid,361,parentid_361,Konstanze,Iolanthe,Mathieson,imathiesona0@paypal.com,447-637-8072,927 Logan Road,2019-02-23,Between200kTo500k,Master,6
+parentid,362,parentid_362,Weber,Melvyn,Meynell,mmeynella1@whitehouse.gov,311-420-0484,9675 Eastwood Circle,2023-06-23,Below50k,Bachelor,6
+parentid,363,parentid_363,Myrlene,Leda,Feltham,lfelthama2@wikispaces.com,129-351-6080,3 Pepper Wood Point,2018-11-13,Between2mTo5m,Bachelor,5
+parentid,364,parentid_364,Dene,Happy,Sommerscales,hsommerscalesa3@arizona.edu,150-298-4054,310 Haas Alley,2024-08-16,Above5m,Master,1
+parentid,365,parentid_365,Jamey,Carolyn,Garaway,cgarawaya4@gnu.org,638-310-5024,28 Cardinal Road,2020-02-28,Between2mTo5m,Master,3
+parentid,366,parentid_366,Cort,Glennis,Roseveare,grosevearea5@liveinternet.ru,882-577-6851,03 Prentice Terrace,2019-04-06,Between1mTo2m,Master,6
+parentid,367,parentid_367,Dyan,Karilynn,McMylor,kmcmylora6@com.com,365-189-0626,58100 Vernon Hill,2018-10-13,Between200kTo500k,Master,1
+parentid,368,parentid_368,Elaine,Tallia,Gregh,tgregha7@google.co.jp,467-426-8728,59232 Pine View Hill,2021-01-26,Between2mTo5m,Bachelor,1
+parentid,369,parentid_369,Asia,Sigismund,Serot,sserota8@theguardian.com,579-351-5018,620 Birchwood Circle,2020-07-22,Between1mTo2m,Master,7
+parentid,370,parentid_370,Peirce,Sigismundo,Rubenov,srubenova9@vimeo.com,432-514-5774,051 Green Avenue,2021-10-09,Between2mTo5m,Master,10
+parentid,371,parentid_371,Dolli,Theresita,Sorrill,tsorrillaa@artisteer.com,299-400-2462,512 Toban Parkway,2024-02-12,Between500kTo1m,Master,2
+parentid,372,parentid_372,Ree,Edith,Mairs,emairsab@photobucket.com,900-142-3228,5 Ridge Oak Pass,2022-03-08,Below50k,Master,9
+parentid,373,parentid_373,Rufe,Farris,Pere,fpereac@reverbnation.com,318-903-5077,34780 Troy Park,2024-08-26,Between500kTo1m,Master,7
+parentid,374,parentid_374,Ambur,Sadella,Sibun,ssibunad@wisc.edu,626-679-5924,0 Novick Lane,2018-12-10,Below50k,Unknown,1
+parentid,375,parentid_375,Jemima,Siana,Leadston,sleadstonae@amazon.com,583-496-8712,003 Manufacturers Junction,2023-08-24,Between200kTo500k,Bachelor,3
+parentid,376,parentid_376,Ninetta,Abe,Craythorn,acraythornaf@addthis.com,795-123-3995,4 Burrows Park,2019-10-27,Between50kTo100k,Vocational,7
+parentid,377,parentid_377,Thurston,Leshia,Draper,ldraperag@npr.org,434-604-6174,63466 Bartelt Drive,2023-12-22,Between50kTo100k,Other,2
+parentid,378,parentid_378,Tirrell,Gwen,Kenshole,gkensholeah@archive.org,777-603-9022,89 Walton Pass,2020-01-31,Between200kTo500k,Master,1
+parentid,379,parentid_379,Nick,Kizzee,Riquet,kriquetai@shareasale.com,245-446-1304,2 Westend Parkway,2018-11-05,Between2mTo5m,Master,3
+parentid,380,parentid_380,Erik,Desi,Theze,dthezeaj@forbes.com,483-768-2949,01095 Oakridge Road,2021-11-24,Between2mTo5m,Unknown,5
+parentid,381,parentid_381,Georas,Lacey,Davidovitz,ldavidovitzak@yellowpages.com,659-714-2565,0760 Glacier Hill Point,2023-05-14,Between500kTo1m,Master,4
+parentid,382,parentid_382,Essie,Constantino,Robertshaw,crobertshawal@disqus.com,764-940-6462,635 Goodland Pass,2018-11-22,Between50kTo100k,Master,9
+parentid,383,parentid_383,Livy,Court,Mangenot,cmangenotam@weather.com,259-335-0787,3823 Kim Circle,2020-03-01,Between500kTo1m,Master,1
+parentid,384,parentid_384,Orelee,Karol,Jeckell,kjeckellan@livejournal.com,234-502-0051,3141 High Crossing Junction,2021-02-25,Above5m,Master,2
+parentid,385,parentid_385,Ashia,Leah,Tourot,ltourotao@nba.com,825-380-2243,38 Bluestem Park,2021-04-19,Below50k,Master,5
+parentid,386,parentid_386,Lorri,Marv,Koch,mkochap@cornell.edu,231-596-4746,34 Kingsford Junction,2023-01-24,Between200kTo500k,Master,5
+parentid,387,parentid_387,Oralla,Sukey,Dadswell,sdadswellaq@over-blog.com,317-345-2895,0 Briar Crest Trail,2023-04-19,Above5m,Master,9
+parentid,388,parentid_388,Arin,Courtney,Hinkins,chinkinsar@dion.ne.jp,730-347-3911,66 Thompson Center,2021-07-16,Between1mTo2m,Master,8
+parentid,389,parentid_389,Leigh,Jeno,Spofford,jspoffordas@sakura.ne.jp,888-287-6388,674 Springview Point,2021-03-29,Between500kTo1m,Master,1
+parentid,390,parentid_390,Laurent,Dora,Wilkins,dwilkinsat@chronoengine.com,633-921-6637,907 Hagan Center,2020-08-02,Between2mTo5m,Master,8
+parentid,391,parentid_391,Rodney,Dacia,Buchett,dbuchettau@samsung.com,601-941-8353,26 Cascade Road,2022-12-06,Between500kTo1m,Master,7
+parentid,392,parentid_392,Gates,Shalne,Swadlen,sswadlenav@apache.org,553-239-2800,95 Victoria Junction,2021-06-24,Below50k,Master,7
+parentid,393,parentid_393,Elli,Jami,Georgeon,jgeorgeonaw@accuweather.com,540-984-0674,57003 Londonderry Park,2023-05-04,Above5m,Master,6
+parentid,394,parentid_394,Irma,Marielle,Foro,mforoax@china.com.cn,600-872-7377,57017 Gulseth Park,2023-09-03,Between2mTo5m,Master,7
+parentid,395,parentid_395,Teador,Aksel,Oxtiby,aoxtibyay@instagram.com,862-185-4354,85429 Express Street,2023-02-03,Above5m,Primary,10
+parentid,396,parentid_396,Hatti,Orsa,Kuhnke,okuhnkeaz@bravesites.com,349-236-8641,358 School Center,2019-05-08,Between200kTo500k,Master,5
+parentid,397,parentid_397,Alain,Gardy,Megarry,gmegarryb0@chron.com,388-767-8298,31142 Eagan Lane,2024-06-08,Below50k,Master,7
+parentid,398,parentid_398,Reube,Connie,Newlove,cnewloveb1@huffingtonpost.com,866-297-8944,96 Monument Trail,2024-05-23,Between2mTo5m,Master,2
+parentid,399,parentid_399,Adham,Lucina,Eynaud,leynaudb2@blogs.com,350-883-3323,7966 Texas Lane,2021-10-07,Between200kTo500k,Other,4
+parentid,400,parentid_400,Arvy,Violet,Bricham,vbrichamb3@rambler.ru,315-813-2984,4 Northview Road,2020-05-22,Above5m,Master,8
+parentid,401,parentid_401,Delaney,Elyn,Handover,ehandoverb4@dot.gov,523-661-1024,5233 Ohio Alley,2024-01-28,Above5m,Master,1
+parentid,402,parentid_402,Veronique,Chrystal,Trump,ctrumpb5@psu.edu,111-446-9371,48881 Troy Drive,2023-02-28,Above5m,Master,1
+parentid,403,parentid_403,Happy,Hermina,Surmeyer,hsurmeyerb6@xing.com,160-128-1617,67243 Memorial Pass,2022-08-27,Between100kTo200k,Master,9
+parentid,404,parentid_404,Yolane,Ericka,Patifield,epatifieldb7@nba.com,170-382-7383,9717 6th Circle,2023-12-05,Between2mTo5m,Master,5
+parentid,405,parentid_405,Jarrad,Mufinella,Maplethorpe,mmaplethorpeb8@google.cn,969-254-1439,05 Bobwhite Drive,2019-10-16,Below50k,Master,4
+parentid,406,parentid_406,Jacqui,Zerk,Bracknell,zbracknellb9@whitehouse.gov,217-447-9272,1 Oxford Place,2023-06-10,Between50kTo100k,Bachelor,6
+parentid,407,parentid_407,Codi,Pietra,Hayle,phayleba@china.com.cn,906-306-6461,5937 Orin Drive,2021-08-17,Between200kTo500k,Other,2
+parentid,408,parentid_408,Betty,Wilek,Doctor,wdoctorbb@spotify.com,877-687-1497,5 Sunnyside Street,2021-05-20,Below50k,Master,8
+parentid,409,parentid_409,Andris,Eulalie,Danilowicz,edanilowiczbc@php.net,102-985-1934,03804 Nevada Street,2019-10-30,Below50k,Bachelor,8
+parentid,410,parentid_410,Melonie,Kiele,Lett,klettbd@wordpress.com,275-717-5283,096 Blue Bill Park Trail,2021-09-12,Between200kTo500k,Master,7
+parentid,411,parentid_411,Hansiain,Renae,Rowter,rrowterbe@theglobeandmail.com,966-152-4110,3896 Crest Line Pass,2018-12-22,Between200kTo500k,Master,1
+parentid,412,parentid_412,Joan,Kass,Wyllis,kwyllisbf@si.edu,883-180-9990,625 Green Ridge Hill,2023-07-29,Between500kTo1m,Bachelor,4
+parentid,413,parentid_413,Garnette,Modesta,Oakes,moakesbg@abc.net.au,710-443-4278,9 Bultman Lane,2019-07-12,Between200kTo500k,Master,8
+parentid,414,parentid_414,Artemus,Roley,Libbie,rlibbiebh@wufoo.com,913-468-3490,0679 Kinsman Road,2023-01-28,Between500kTo1m,Master,8
+parentid,415,parentid_415,Marlow,Wilmer,Danbye,wdanbyebi@github.io,301-877-3199,44 Browning Terrace,2018-10-13,Between1mTo2m,Bachelor,1
+parentid,416,parentid_416,Idalina,Woodman,Ortiger,wortigerbj@ca.gov,564-854-0705,4 Graedel Court,2019-07-30,Between2mTo5m,Diploma,7
+parentid,417,parentid_417,Brigid,Edi,Sutlieff,esutlieffbk@europa.eu,869-543-4342,88351 Golf Course Avenue,2020-11-30,Between100kTo200k,Bachelor,10
+parentid,418,parentid_418,Lenee,Evita,Millier,emillierbl@mysql.com,536-753-0942,95 Anderson Hill,2023-04-21,Between50kTo100k,Bachelor,5
+parentid,419,parentid_419,Shantee,Geordie,Dohr,gdohrbm@hhs.gov,954-405-2858,758 Old Shore Avenue,2019-11-03,Between1mTo2m,Master,3
+parentid,420,parentid_420,Pincas,Davida,Forsey,dforseybn@dagondesign.com,268-227-4562,8482 Bartillon Court,2022-05-26,Between2mTo5m,Master,8
+parentid,421,parentid_421,Weylin,Duncan,Jura,djurabo@cbc.ca,357-150-7132,160 Dixon Center,2022-11-02,Between200kTo500k,Master,7
+parentid,422,parentid_422,Any,Xena,Cowen,xcowenbp@addtoany.com,664-540-7378,45 Reindahl Trail,2024-07-27,Between2mTo5m,Bachelor,10
+parentid,423,parentid_423,Hasty,Drusilla,Wesker,dweskerbq@shinystat.com,125-631-6232,65 Jenna Way,2019-11-05,Between200kTo500k,Master,10
+parentid,424,parentid_424,Erik,Elisha,Pering,eperingbr@huffingtonpost.com,504-609-9279,87 Fallview Court,2024-02-29,Above5m,Bachelor,10
+parentid,425,parentid_425,Keelby,Kerby,Chuck,kchuckbs@senate.gov,944-835-7179,11 Barby Place,2022-02-14,Between50kTo100k,Diploma,5
+parentid,426,parentid_426,Misti,Rodney,Domeny,rdomenybt@mlb.com,409-300-8110,18663 Sullivan Street,2024-06-30,Between500kTo1m,Bachelor,1
+parentid,427,parentid_427,Hyacinth,Catina,ffrench Beytagh,cffrenchbeytaghbu@state.tx.us,183-866-4302,7 Manley Parkway,2022-10-31,Above5m,Master,10
+parentid,428,parentid_428,Molli,Allie,O'Regan,aoreganbv@cargocollective.com,597-936-4670,8682 Wayridge Terrace,2021-11-30,Above5m,Master,7
+parentid,429,parentid_429,Aigneis,Parker,Jewis,pjewisbw@ucoz.com,289-341-0162,45 Dawn Circle,2022-05-08,Below50k,Diploma,1
+parentid,430,parentid_430,Mikaela,Rollins,Danilchik,rdanilchikbx@photobucket.com,216-551-9909,99 Artisan Hill,2019-01-14,Between200kTo500k,Bachelor,6
+parentid,431,parentid_431,Hamil,Esmaria,Chevis,echevisby@live.com,221-746-8792,2616 Myrtle Point,2019-11-03,Between1mTo2m,Bachelor,7
+parentid,432,parentid_432,Shell,Issy,Mum,imumbz@1und1.de,544-609-1185,51 Helena Junction,2021-05-31,Between1mTo2m,Master,8
+parentid,433,parentid_433,Gertrude,Merrill,Lampe,mlampec0@cpanel.net,235-658-8672,91 Jana Plaza,2022-11-20,Between50kTo100k,Master,10
+parentid,434,parentid_434,Lelah,Danna,Parke,dparkec1@g.co,161-205-1457,0347 Rieder Point,2024-03-17,Between1mTo2m,Master,7
+parentid,435,parentid_435,Ina,Audy,Kilgrove,akilgrovec2@cornell.edu,681-533-4275,53870 Bluestem Circle,2021-08-23,Between1mTo2m,Master,3
+parentid,436,parentid_436,Muhammad,Roselle,Chiechio,rchiechioc3@sitemeter.com,830-272-1766,76963 Hauk Circle,2024-06-25,Between100kTo200k,Master,8
+parentid,437,parentid_437,Laurie,Fanny,Durbann,fdurbannc4@studiopress.com,803-712-0643,77 Express Trail,2022-12-12,Between200kTo500k,Master,1
+parentid,438,parentid_438,Alva,Lorrayne,Salt,lsaltc5@google.fr,320-355-3028,0769 Thierer Point,2019-09-20,Between100kTo200k,Master,1
+parentid,439,parentid_439,Averil,Abner,Longworth,alongworthc6@google.cn,456-760-4364,1102 Redwing Center,2021-09-19,Between50kTo100k,Master,6
+parentid,440,parentid_440,Leonerd,Libbey,Durtnal,ldurtnalc7@unesco.org,898-482-2877,8 Loftsgordon Crossing,2024-01-19,Between100kTo200k,Master,6
+parentid,441,parentid_441,Minne,Mavra,McKeefry,mmckeefryc8@cnet.com,968-998-0531,8965 Manufacturers Drive,2024-07-30,Above5m,Master,3
+parentid,442,parentid_442,Kirsteni,Lil,Janczak,ljanczakc9@joomla.org,977-320-1581,12 Continental Alley,2022-12-11,Between500kTo1m,Master,10
+parentid,443,parentid_443,Milt,Blinny,Jewer,bjewerca@friendfeed.com,870-252-1171,8017 Calypso Circle,2023-12-17,Between2mTo5m,Master,10
+parentid,444,parentid_444,Bobby,Byrle,Bibb,bbibbcb@canalblog.com,811-386-1629,9 Jackson Crossing,2024-05-20,Above5m,Unknown,9
+parentid,445,parentid_445,Dyana,Norina,Loughton,nloughtoncc@yellowbook.com,562-322-6745,6 East Circle,2021-11-06,Between50kTo100k,Master,7
+parentid,446,parentid_446,Benedikt,Sarina,Swateridge,sswateridgecd@hugedomains.com,276-639-0726,07 Kingsford Crossing,2022-10-16,Between100kTo200k,Master,2
+parentid,447,parentid_447,Idelle,Sile,Arnau,sarnauce@intel.com,899-576-3058,6 Tomscot Junction,2024-02-29,Between1mTo2m,Bachelor,9
+parentid,448,parentid_448,Kimmie,Misha,Abramin,mabramincf@ameblo.jp,516-407-9554,8 Annamark Road,2018-12-08,Below50k,Master,5
+parentid,449,parentid_449,Harman,Morley,Jeeves,mjeevescg@tumblr.com,243-382-2275,4606 Onsgard Circle,2023-06-06,Between1mTo2m,Master,7
+parentid,450,parentid_450,Daisy,Hanan,Pietri,hpietrich@sakura.ne.jp,329-311-8038,026 Oak Terrace,2020-11-09,Between500kTo1m,Bachelor,2
+parentid,451,parentid_451,Wes,Rem,McKune,rmckuneci@shop-pro.jp,117-645-2115,78820 Hovde Drive,2021-06-10,Between2mTo5m,Secondary,1
+parentid,452,parentid_452,Bartholomeus,Salomone,Delgadillo,sdelgadillocj@mayoclinic.com,222-470-7946,3 Raven Junction,2019-03-21,Below50k,Master,9
+parentid,453,parentid_453,Andre,Tab,Plascott,tplascottck@time.com,344-707-2821,97028 Delladonna Plaza,2018-12-27,Above5m,Master,1
+parentid,454,parentid_454,Amble,Vasilis,Langshaw,vlangshawcl@mail.ru,870-877-1788,00 Bayside Trail,2020-05-04,Between500kTo1m,Other,4
+parentid,455,parentid_455,Marga,Dyanna,Peacocke,dpeacockecm@soundcloud.com,985-150-0867,0437 Havey Drive,2019-12-20,Between500kTo1m,Master,10
+parentid,456,parentid_456,Gardener,Sarena,Ferrarese,sferraresecn@elegantthemes.com,431-463-5297,961 Fisk Hill,2024-06-12,Above5m,Master,9
+parentid,457,parentid_457,Alaric,Shalna,O'Doohaine,sodoohaineco@bing.com,387-241-5801,3 Green Ridge Road,2020-12-07,Between200kTo500k,Bachelor,8
+parentid,458,parentid_458,Hunt,Dennison,Clappison,dclappisoncp@dagondesign.com,910-643-9272,5665 Sunbrook Alley,2023-08-11,Between200kTo500k,Master,6
+parentid,459,parentid_459,Farica,Rod,Manginot,rmanginotcq@msn.com,817-659-0455,0 Ridge Oak Terrace,2020-09-15,Between50kTo100k,Master,8
+parentid,460,parentid_460,Brien,Othello,Skaif,oskaifcr@walmart.com,793-167-6403,6390 Quincy Street,2021-02-20,Between1mTo2m,Master,2
+parentid,461,parentid_461,Bourke,Aarika,Thomson,athomsoncs@google.com.hk,243-597-8144,8 Pond Trail,2019-05-28,Between1mTo2m,Master,5
+parentid,462,parentid_462,Cecil,Uta,Jozwik,ujozwikct@live.com,550-823-2289,350 Crownhardt Avenue,2021-08-17,Between50kTo100k,Master,1
+parentid,463,parentid_463,Grantham,Lynea,Pluthero,lplutherocu@facebook.com,575-448-9750,4 Donald Street,2024-05-28,Above5m,Master,10
+parentid,464,parentid_464,Boniface,Shannan,Vanlint,svanlintcv@cornell.edu,699-832-8210,4 Blaine Center,2021-08-27,Between100kTo200k,Master,3
+parentid,465,parentid_465,Mario,Austen,Peet,apeetcw@squidoo.com,701-894-1501,4 Blaine Center,2022-08-08,Between50kTo100k,Master,7
+parentid,466,parentid_466,Munroe,Talbert,Culy,tculycx@sina.com.cn,606-569-9324,25796 Muir Place,2019-04-17,Between1mTo2m,Bachelor,8
+parentid,467,parentid_467,Danice,Town,Crusham,tcrushamcy@booking.com,815-980-4169,553 Hansons Way,2022-07-15,Between50kTo100k,Master,3
+parentid,468,parentid_468,Giffie,Ilka,Bruntje,ibruntjecz@simplemachines.org,810-940-0181,89791 Hanover Court,2022-04-16,Above5m,Master,6
+parentid,469,parentid_469,Nanete,Ollie,Rowet,orowetd0@rakuten.co.jp,381-346-0316,43246 Milwaukee Pass,2023-10-20,Between1mTo2m,Master,5
+parentid,470,parentid_470,Gayle,Idelle,Mingus,imingusd1@ed.gov,222-142-2180,79788 Schiller Point,2021-12-05,Between100kTo200k,Master,7
+parentid,471,parentid_471,Jammal,Dal,Cordero,dcorderod2@devhub.com,796-281-2157,3 International Drive,2022-10-30,Between500kTo1m,Master,9
+parentid,472,parentid_472,Lani,Bethena,Marvell,bmarvelld3@theatlantic.com,595-304-1307,50 Hayes Park,2023-10-18,Above5m,Master,10
+parentid,473,parentid_473,Saxon,Hermione,Brower,hbrowerd4@fda.gov,625-846-4394,06640 Main Place,2021-05-08,Between500kTo1m,Master,4
+parentid,474,parentid_474,Laurie,Roseanne,Gonzales,rgonzalesd5@dagondesign.com,691-991-7337,7 Buell Center,2022-10-03,Between100kTo200k,Master,4
+parentid,475,parentid_475,Hyacinthe,Loleta,Gollard,lgollardd6@irs.gov,512-479-2783,75694 Huxley Center,2023-04-28,Between2mTo5m,Master,7
+parentid,476,parentid_476,Lorry,Kellby,Speir,kspeird7@omniture.com,136-300-3969,84105 Artisan Alley,2022-02-19,Between2mTo5m,Master,2
+parentid,477,parentid_477,Harmony,Osborne,Batten,obattend8@chron.com,377-836-6771,0 Miller Drive,2019-01-31,Between50kTo100k,Master,8
+parentid,478,parentid_478,Sheff,Forrester,McGawn,fmcgawnd9@kickstarter.com,930-401-1638,41 Schurz Drive,2023-08-12,Between500kTo1m,Master,4
+parentid,479,parentid_479,Deena,Del,Belasco,dbelascoda@disqus.com,169-808-1886,47 Lawn Circle,2023-10-16,Below50k,Master,6
+parentid,480,parentid_480,Marylinda,Marla,Elleyne,melleynedb@sakura.ne.jp,738-900-6800,14 Prairie Rose Lane,2019-04-27,Between2mTo5m,Master,3
+parentid,481,parentid_481,Orelie,Margaret,McCutcheon,mmccutcheondc@netscape.com,241-769-2436,95379 Namekagon Drive,2022-06-26,Below50k,Vocational,6
+parentid,482,parentid_482,Doralynn,Monty,Ivimey,mivimeydd@bloglines.com,456-312-4675,13292 Manufacturers Trail,2021-12-06,Above5m,Master,10
+parentid,483,parentid_483,Redd,Gery,Bills,gbillsde@mail.ru,467-707-3190,389 Mesta Plaza,2022-05-06,Between2mTo5m,Master,7
+parentid,484,parentid_484,Magdaia,Sissy,Sich,ssichdf@yale.edu,648-631-2281,063 Judy Hill,2024-05-14,Below50k,Master,5
+parentid,485,parentid_485,Ruth,Meredithe,Pavolini,mpavolinidg@pinterest.com,923-251-2482,909 Golf View Junction,2021-08-02,Between100kTo200k,Bachelor,1
+parentid,486,parentid_486,Lizabeth,Angeli,Beavers,abeaversdh@go.com,349-495-7401,05 Eliot Alley,2021-03-21,Between500kTo1m,Master,7
+parentid,487,parentid_487,Oralie,Bobette,Licas,blicasdi@wikia.com,417-570-1611,311 Coleman Pass,2024-05-08,Between50kTo100k,Master,1
+parentid,488,parentid_488,Deana,Murielle,Dench,mdenchdj@hubpages.com,987-418-7748,81987 Stephen Park,2022-02-21,Above5m,Master,4
+parentid,489,parentid_489,Adrianne,Dare,Bockmaster,dbockmasterdk@nhs.uk,753-675-9120,97771 Hansons Plaza,2020-11-25,Between500kTo1m,Master,7
+parentid,490,parentid_490,Consalve,Melany,Risman,mrismandl@chronoengine.com,865-319-9269,162 Drewry Avenue,2023-10-29,Between100kTo200k,Master,9
+parentid,491,parentid_491,Rivkah,Melany,Mouan,mmouandm@marketwatch.com,606-349-4850,13496 Longview Hill,2021-09-03,Below50k,Other,10
+parentid,492,parentid_492,Marietta,Deck,Ritelli,dritellidn@bbc.co.uk,169-117-0112,59524 Randy Plaza,2022-08-28,Below50k,Doctoral,9
+parentid,493,parentid_493,Viola,Rosamond,Diben,rdibendo@lycos.com,572-156-7591,2503 Stoughton Parkway,2019-07-13,Between50kTo100k,Bachelor,1
+parentid,494,parentid_494,Saundra,Vin,Cramer,vcramerdp@cafepress.com,240-484-6097,6 Waywood Trail,2023-01-23,Between2mTo5m,Master,1
+parentid,495,parentid_495,Helge,Nicoline,Matveiko,nmatveikodq@w3.org,453-429-4259,5777 Ronald Regan Point,2023-12-07,Between500kTo1m,Master,6
+parentid,496,parentid_496,Kurt,Lyle,Horsfield,lhorsfielddr@sogou.com,734-480-0674,5713 Maple Park,2019-08-17,Between500kTo1m,Master,8
+parentid,497,parentid_497,Lothario,Doy,Fencott,dfencottds@smugmug.com,427-114-1130,2564 Monterey Lane,2024-04-20,Above5m,Master,9
+parentid,498,parentid_498,Georgeanna,Susy,Lavelle,slavelledt@naver.com,997-311-5077,56 Tony Plaza,2019-06-22,Below50k,Master,9
+parentid,499,parentid_499,Clayton,Shurlocke,Cammidge,scammidgedu@apple.com,103-224-8657,724 Bartillon Parkway,2019-12-20,Between2mTo5m,Master,5
+parentid,500,parentid_500,Alain,Etienne,Tortice,etorticedv@technorati.com,291-835-6264,7 Morningstar Place,2020-02-25,Between200kTo500k,Bachelor,5
+parentid,501,parentid_501,Dulcine,Maurine,Huey,mhueydw@discuz.net,592-312-6202,8333 Di Loreto Parkway,2020-11-30,Between200kTo500k,Master,9
+parentid,502,parentid_502,Kin,Bobbee,Sircombe,bsircombedx@desdev.cn,676-507-9437,32060 Acker Drive,2022-01-14,Between50kTo100k,Master,8
+parentid,503,parentid_503,Yolane,Luciano,Chamberlain,lchamberlaindy@washingtonpost.com,523-269-1307,5690 Glacier Hill Way,2019-10-23,Between500kTo1m,Other,9
+parentid,504,parentid_504,Ali,Giulia,Wais,gwaisdz@fda.gov,379-874-1217,4892 Starling Junction,2018-11-13,Between500kTo1m,Master,7
+parentid,505,parentid_505,Harmonie,Christiane,Wotton,cwottone0@bigcartel.com,812-463-1125,5 Fairview Trail,2020-07-23,Below50k,Bachelor,2
+parentid,506,parentid_506,Jeno,Aurthur,Treble,atreblee1@dagondesign.com,543-781-1281,4 Village Green Avenue,2024-02-05,Between1mTo2m,Master,2
+parentid,507,parentid_507,Jervis,Danny,Lanchbery,dlanchberye2@feedburner.com,870-847-1338,41307 Crest Line Way,2019-04-19,Between2mTo5m,Other,9
+parentid,508,parentid_508,Bernita,Noni,Divill,ndiville3@skyrock.com,449-246-0745,6796 Cordelia Hill,2019-12-16,Below50k,Master,4
+parentid,509,parentid_509,Chrysler,Solomon,Jepp,sjeppe4@loc.gov,223-635-9764,1 Messerschmidt Park,2024-02-08,Between2mTo5m,Primary,1
+parentid,510,parentid_510,Ewen,Zitella,Whapham,zwhaphame5@oakley.com,697-569-7405,62385 Lukken Parkway,2018-12-01,Below50k,Master,3
+parentid,511,parentid_511,Putnam,Ford,Paylie,fpayliee6@wikispaces.com,516-193-8956,18 Kenwood Pass,2020-11-12,Between500kTo1m,Doctoral,6
+parentid,512,parentid_512,Buiron,Gene,Fowden,gfowdene7@naver.com,653-342-3879,6234 Holmberg Park,2020-07-07,Between1mTo2m,Master,7
+parentid,513,parentid_513,Timmy,Frederico,McIntee,fmcinteee8@bravesites.com,130-317-8908,6964 Glacier Hill Road,2022-04-23,Between100kTo200k,Master,1
+parentid,514,parentid_514,Melania,Siward,Whotton,swhottone9@umich.edu,330-837-5328,98366 Erie Drive,2023-09-01,Between100kTo200k,Bachelor,2
+parentid,515,parentid_515,Andrus,Creight,Atyea,catyeaea@wiley.com,216-566-3810,9912 Meadow Ridge Place,2019-08-19,Between1mTo2m,Other,8
+parentid,516,parentid_516,Kathryne,Yance,Jacobsson,yjacobssoneb@about.me,739-634-8651,01 Evergreen Hill,2021-04-03,Above5m,Master,4
+parentid,517,parentid_517,Donnie,Marnia,Punshon,mpunshonec@parallels.com,300-110-6723,08 Carberry Point,2024-03-13,Between500kTo1m,Master,2
+parentid,518,parentid_518,Philbert,Dimitry,Fludder,dfluddered@rakuten.co.jp,659-190-3385,1 Pine View Junction,2020-10-05,Between200kTo500k,Master,8
+parentid,519,parentid_519,Mayer,Georgena,Binnion,gbinnionee@digg.com,998-448-0865,365 Monument Street,2021-04-19,Between500kTo1m,Doctoral,3
+parentid,520,parentid_520,Haywood,Lora,Eddis,leddisef@aboutads.info,326-998-4176,80653 Kingsford Parkway,2021-02-18,Below50k,Master,10
+parentid,521,parentid_521,Tandy,Ericha,Klagge,eklaggeeg@nih.gov,157-953-8405,59 Grim Terrace,2020-12-30,Between2mTo5m,Other,9
+parentid,522,parentid_522,Sari,Alexandre,Westnage,awestnageeh@tiny.cc,459-302-2015,76066 Monument Hill,2021-11-30,Above5m,Bachelor,10
+parentid,523,parentid_523,Catherin,Mayer,Akehurst,makehurstei@hc360.com,313-122-6037,295 Melvin Road,2023-10-15,Below50k,Bachelor,8
+parentid,524,parentid_524,Cherida,May,Loweth,mlowethej@is.gd,894-814-8039,284 Holmberg Plaza,2020-04-24,Between200kTo500k,Master,9
+parentid,525,parentid_525,Ferris,Ellette,Papps,epappsek@weather.com,971-163-9023,36278 Fieldstone Hill,2024-01-30,Between100kTo200k,Master,10
+parentid,526,parentid_526,Kylie,Alexandra,Lockless,alocklessel@auda.org.au,677-815-0298,696 Eggendart Plaza,2021-08-22,Between500kTo1m,Master,5
+parentid,527,parentid_527,Randolph,Freeland,Masterman,fmastermanem@ucoz.com,806-233-6418,94080 Debra Trail,2019-02-20,Between200kTo500k,Master,2
+parentid,528,parentid_528,Rafi,Thurston,McKendo,tmckendoen@bluehost.com,541-864-1623,2 Browning Place,2022-02-04,Between100kTo200k,Master,10
+parentid,529,parentid_529,Orel,Blane,Denisovich,bdenisovicheo@fastcompany.com,863-137-9801,4 Starling Court,2018-10-07,Between200kTo500k,Master,6
+parentid,530,parentid_530,Lucina,Laina,Ricardin,lricardinep@wisc.edu,978-950-3022,07 Lakewood Plaza,2022-12-19,Between100kTo200k,Master,9
+parentid,531,parentid_531,Genovera,Daren,Linder,dlindereq@shop-pro.jp,977-964-6631,07 Mariners Cove Park,2023-09-13,Between200kTo500k,Master,8
+parentid,532,parentid_532,Dwight,Clerkclaude,Priddy,cpriddyer@hostgator.com,914-235-0335,848 Dottie Pass,2022-05-18,Between200kTo500k,Bachelor,4
+parentid,533,parentid_533,Basile,Malena,Ruslin,mruslines@jugem.jp,833-114-9001,5938 Shasta Hill,2020-11-10,Between500kTo1m,Master,9
+parentid,534,parentid_534,Rebe,Robena,Plant,rplantet@japanpost.jp,835-549-8137,2 Pepper Wood Crossing,2019-08-16,Below50k,Master,4
+parentid,535,parentid_535,Cynthie,Martino,Chart,mcharteu@so-net.ne.jp,720-185-8275,3444 Oak Valley Way,2021-05-11,Between1mTo2m,Master,4
+parentid,536,parentid_536,Rebecka,Athena,Asbrey,aasbreyev@sciencedaily.com,448-392-6401,32189 East Circle,2020-10-27,Between1mTo2m,Master,7
+parentid,537,parentid_537,Aurea,Kimberly,Eddie,keddieew@nih.gov,412-881-7470,6119 Almo Junction,2022-06-07,Between500kTo1m,Doctoral,4
+parentid,538,parentid_538,Dominic,Adele,Chopin,achopinex@eventbrite.com,446-271-0757,349 Cordelia Street,2019-09-08,Between100kTo200k,Unknown,3
+parentid,539,parentid_539,Binni,Sylas,Mapson,smapsoney@barnesandnoble.com,351-858-9462,73 Parkside Point,2019-06-29,Between2mTo5m,Bachelor,3
+parentid,540,parentid_540,Thayne,Fons,Pimlett,fpimlettez@mapy.cz,469-492-6744,32 Claremont Street,2024-05-11,Between50kTo100k,Master,3
+parentid,541,parentid_541,Katusha,Dinny,Wombwell,dwombwellf0@booking.com,556-461-5956,77246 Mayer Point,2023-06-06,Between100kTo200k,Master,7
+parentid,542,parentid_542,Melli,Denis,Hampstead,dhampsteadf1@marriott.com,202-587-6597,7728 Ramsey Lane,2024-09-29,Below50k,Bachelor,10
+parentid,543,parentid_543,Reed,Sigfried,Cottey,scotteyf2@list-manage.com,982-242-7045,398 Jackson Drive,2022-03-19,Between200kTo500k,Master,3
+parentid,544,parentid_544,Bradford,Carolee,O'Currine,cocurrinef3@apple.com,233-647-5734,772 Artisan Crossing,2021-05-14,Between500kTo1m,Master,10
+parentid,545,parentid_545,Francyne,Ignatius,Dike,idikef4@salon.com,732-790-9058,12 5th Parkway,2020-06-19,Between200kTo500k,Master,6
+parentid,546,parentid_546,Kamillah,Evaleen,Castagneri,ecastagnerif5@edublogs.org,952-974-8382,89 Red Cloud Drive,2023-03-29,Between50kTo100k,Master,8
+parentid,547,parentid_547,Asa,Melodee,Pigford,mpigfordf6@typepad.com,702-231-6680,86815 Hoepker Way,2020-06-27,Between500kTo1m,Master,2
+parentid,548,parentid_548,Betty,Sheilah,Lightbown,slightbownf7@ask.com,876-382-0139,5 Katie Avenue,2024-03-23,Between200kTo500k,Master,4
+parentid,549,parentid_549,Dominic,Nicolle,Hardy,nhardyf8@networksolutions.com,870-925-6791,8426 International Crossing,2023-07-13,Between200kTo500k,Primary,7
+parentid,550,parentid_550,Alessandro,Hillel,Gartsyde,hgartsydef9@wisc.edu,837-624-6580,29649 Forest Dale Pass,2020-12-10,Above5m,Bachelor,2
+parentid,551,parentid_551,Dennet,Curt,Govey,cgoveyfa@imdb.com,459-355-6989,24626 Washington Parkway,2020-10-08,Between50kTo100k,Master,4
+parentid,552,parentid_552,Sascha,Nahum,Warrior,nwarriorfb@hao123.com,775-721-5676,16949 Morningstar Terrace,2019-08-05,Between200kTo500k,Unknown,1
+parentid,553,parentid_553,Bartlett,Moses,Norssister,mnorssisterfc@cdbaby.com,492-809-1977,41 Dixon Crossing,2021-09-22,Between100kTo200k,Master,10
+parentid,554,parentid_554,Miller,Jamie,Leithgoe,jleithgoefd@usnews.com,519-465-4341,12179 David Park,2019-01-30,Between50kTo100k,Other,8
+parentid,555,parentid_555,Natala,Alejandra,Hendricks,ahendricksfe@trellian.com,800-195-5669,4833 Schiller Alley,2019-09-27,Below50k,Master,4
+parentid,556,parentid_556,Marven,Penelopa,Cattle,pcattleff@narod.ru,395-176-1689,10 Westend Terrace,2022-07-06,Above5m,Master,10
+parentid,557,parentid_557,Torin,Griffie,Rowland,growlandfg@mysql.com,573-762-8227,822 Di Loreto Alley,2020-01-28,Below50k,Master,4
+parentid,558,parentid_558,Herbie,Charlie,Golland,cgollandfh@oaic.gov.au,592-248-7255,7912 Duke Point,2021-08-12,Between100kTo200k,Master,8
+parentid,559,parentid_559,Gabie,Myrwyn,Guitte,mguittefi@bing.com,368-577-3302,04 Cascade Pass,2022-06-22,Between100kTo200k,Bachelor,3
+parentid,560,parentid_560,Winifred,Shirl,Jedrzejewicz,sjedrzejewiczfj@dedecms.com,488-619-4612,9646 Banding Crossing,2021-09-26,Above5m,Master,8
+parentid,561,parentid_561,Mordy,Rhonda,Priddis,rpriddisfk@yelp.com,153-501-5856,70 Moland Lane,2022-05-24,Above5m,Master,9
+parentid,562,parentid_562,Lory,Minnnie,Thames,mthamesfl@tiny.cc,136-725-5958,0824 Brown Pass,2020-10-09,Between500kTo1m,Master,10
+parentid,563,parentid_563,Colette,Ashely,Clayworth,aclayworthfm@google.com.br,136-957-9224,5033 Walton Court,2023-11-07,Below50k,Doctoral,10
+parentid,564,parentid_564,Darbee,Joana,Merigot,jmerigotfn@tuttocitta.it,267-477-5805,8551 Oak Valley Crossing,2019-04-11,Between50kTo100k,Master,3
+parentid,565,parentid_565,Linnell,Archaimbaud,Cushworth,acushworthfo@bloomberg.com,926-874-8556,4340 Norway Maple Court,2021-11-28,Between100kTo200k,Bachelor,1
+parentid,566,parentid_566,Andres,Cyrille,Trapp,ctrappfp@artisteer.com,192-840-8801,8329 Heath Avenue,2019-01-03,Between1mTo2m,Master,7
+parentid,567,parentid_567,Peder,Terrijo,Probart,tprobartfq@stanford.edu,826-911-8479,224 Texas Crossing,2022-12-24,Between50kTo100k,Master,7
+parentid,568,parentid_568,Stevie,Kevon,Lackham,klackhamfr@youtube.com,134-311-7795,79 Fairview Circle,2020-07-20,Between200kTo500k,Bachelor,2
+parentid,569,parentid_569,Evey,Hagan,Borrott,hborrottfs@cnn.com,145-983-4550,92276 Pierstorff Circle,2019-05-07,Below50k,Master,9
+parentid,570,parentid_570,Rickard,Mada,Idney,midneyft@opensource.org,404-519-5268,5234 Sheridan Trail,2023-09-07,Between500kTo1m,Doctoral,10
+parentid,571,parentid_571,Elroy,Karola,Tysack,ktysackfu@liveinternet.ru,765-851-8194,47519 Grover Point,2024-05-28,Between1mTo2m,Master,1
+parentid,572,parentid_572,Brendon,Chantal,Rawstron,crawstronfv@wikia.com,119-164-3489,5 Cascade Avenue,2022-04-01,Between50kTo100k,Master,6
+parentid,573,parentid_573,Alonzo,Barney,Colling,bcollingfw@studiopress.com,593-640-2485,2 Forest Run Pass,2019-12-02,Above5m,Bachelor,3
+parentid,574,parentid_574,Enos,Lelia,Scneider,lscneiderfx@abc.net.au,483-501-4933,92 2nd Street,2020-04-01,Above5m,Master,4
+parentid,575,parentid_575,Darn,Modesty,Keningham,mkeninghamfy@npr.org,529-658-4817,57 Doe Crossing Pass,2024-01-23,Between500kTo1m,Vocational,2
+parentid,576,parentid_576,Datha,Reine,Northleigh,rnorthleighfz@va.gov,753-267-2196,439 Utah Parkway,2020-12-12,Below50k,Master,2
+parentid,577,parentid_577,Sisile,Amanda,Mallock,amallockg0@marriott.com,797-100-1911,09 Corry Junction,2020-09-24,Between2mTo5m,Unknown,5
+parentid,578,parentid_578,Dorey,Manon,Hundey,mhundeyg1@stumbleupon.com,661-935-9535,4 Leroy Circle,2023-08-26,Between2mTo5m,Master,6
+parentid,579,parentid_579,Herman,Millicent,Fuzzey,mfuzzeyg2@constantcontact.com,514-792-0402,8 Center Point,2019-06-10,Between500kTo1m,Master,10
+parentid,580,parentid_580,Cornie,Fionna,Kemell,fkemellg3@techcrunch.com,774-679-9080,1294 Mallory Center,2021-02-25,Between50kTo100k,Doctoral,3
+parentid,581,parentid_581,Collette,Tabby,Jessopp,tjessoppg4@ustream.tv,204-885-8259,195 Vernon Hill,2021-09-07,Between500kTo1m,Master,4
+parentid,582,parentid_582,Clywd,Davon,Hardern,dharderng5@hibu.com,720-428-4650,29771 Forest Run Alley,2023-08-13,Between2mTo5m,Master,8
+parentid,583,parentid_583,Hewie,Wileen,Birchwood,wbirchwoodg6@altervista.org,548-294-8758,3936 Mandrake Pass,2022-12-10,Below50k,Master,9
+parentid,584,parentid_584,Karylin,Claudine,De Lorenzo,cdelorenzog7@hibu.com,425-431-2509,886 Ridge Oak Center,2023-05-01,Between2mTo5m,Master,6
+parentid,585,parentid_585,Trixie,Sal,Goring,sgoringg8@discuz.net,189-622-6192,93939 Russell Trail,2022-10-26,Between50kTo100k,Master,7
+parentid,586,parentid_586,Way,Danya,Haley,dhaleyg9@about.com,139-417-9075,603 Cottonwood Drive,2018-11-11,Between50kTo100k,Bachelor,1
+parentid,587,parentid_587,Grete,Franky,Hiscocks,fhiscocksga@google.co.uk,424-430-2057,5 Hoard Trail,2021-02-23,Between500kTo1m,Master,5
+parentid,588,parentid_588,Cello,Katuscha,Seden,ksedengb@stumbleupon.com,111-845-4314,6125 Sunnyside Terrace,2021-11-27,Between200kTo500k,Master,5
+parentid,589,parentid_589,Anatollo,Chev,Dallan,cdallangc@java.com,792-126-7079,8 Village Green Terrace,2024-07-28,Between500kTo1m,Master,2
+parentid,590,parentid_590,Desi,Kaitlyn,Thaine,kthainegd@ca.gov,889-172-7886,8 Old Gate Court,2023-04-12,Below50k,Master,4
+parentid,591,parentid_591,Karolina,Modesty,Gavaran,mgavarange@360.cn,414-607-0012,9 Coleman Road,2021-04-08,Between1mTo2m,Master,4
+parentid,592,parentid_592,Shalna,Danyelle,O'Hartnedy,dohartnedygf@slate.com,821-171-7779,51 Towne Drive,2022-11-21,Between500kTo1m,Master,8
+parentid,593,parentid_593,Blaine,Gabi,Coulthurst,gcoulthurstgg@cpanel.net,491-554-0734,1 Barnett Lane,2021-03-28,Between50kTo100k,Master,10
+parentid,594,parentid_594,Etti,Farica,Brashier,fbrashiergh@typepad.com,301-202-3602,8616 Red Cloud Parkway,2024-10-02,Between500kTo1m,Master,9
+parentid,595,parentid_595,Alejandra,Pascale,Elsie,pelsiegi@jiathis.com,378-303-8370,072 Cambridge Hill,2022-07-13,Between500kTo1m,Master,2
+parentid,596,parentid_596,Maxy,Stanley,Freda,sfredagj@friendfeed.com,885-534-1269,5 Trailsway Center,2023-02-11,Between50kTo100k,Master,2
+parentid,597,parentid_597,Francyne,Pepillo,Bantick,pbantickgk@google.pl,120-823-5601,284 Milwaukee Road,2022-10-12,Below50k,Master,9
+parentid,598,parentid_598,Cobby,Ira,McKimm,imckimmgl@blogger.com,406-631-7568,910 Ohio Road,2021-03-09,Between2mTo5m,Master,8
+parentid,599,parentid_599,Christen,Katherina,McGrady,kmcgradygm@multiply.com,769-751-8794,7456 Oak Valley Place,2021-07-15,Above5m,Bachelor,2
+parentid,600,parentid_600,Maia,Rhianon,Latty,rlattygn@hibu.com,541-304-3736,59 Mayer Lane,2023-07-03,Above5m,Primary,10
+parentid,601,parentid_601,Lesley,Lazar,Franca,lfrancago@vkontakte.ru,424-487-6501,955 Buell Pass,2019-11-16,Between500kTo1m,Master,1
+parentid,602,parentid_602,Town,Christoforo,Elbourne,celbournegp@aol.com,202-371-6871,94 Cody Terrace,2023-02-03,Between100kTo200k,Master,3
+parentid,603,parentid_603,Davey,Christophorus,Chantree,cchantreegq@msn.com,402-735-2170,88376 5th Trail,2020-02-20,Between1mTo2m,Bachelor,7
+parentid,604,parentid_604,Moe,Elnore,Mathet,emathetgr@utexas.edu,792-675-0804,3743 Fallview Trail,2019-11-23,Between100kTo200k,Master,10
+parentid,605,parentid_605,Nesta,Jobey,Bolderoe,jbolderoegs@trellian.com,655-249-7583,066 Fairfield Hill,2020-10-29,Between200kTo500k,Bachelor,5
+parentid,606,parentid_606,Gottfried,Claude,MacAndreis,cmacandreisgt@chicagotribune.com,638-996-3242,35 Crowley Drive,2021-02-19,Between1mTo2m,Bachelor,10
+parentid,607,parentid_607,Blythe,Rebecca,Episcopio,repiscopiogu@sciencedaily.com,165-862-8289,68393 Rigney Parkway,2024-05-05,Between500kTo1m,Master,4
+parentid,608,parentid_608,Bert,Malory,Brissard,mbrissardgv@drupal.org,507-292-3622,870 Meadow Ridge Hill,2019-05-17,Between1mTo2m,Master,6
+parentid,609,parentid_609,Susette,Enid,Cumpsty,ecumpstygw@jiathis.com,783-438-1796,5748 Weeping Birch Trail,2019-01-02,Between500kTo1m,Bachelor,8
+parentid,610,parentid_610,Sapphira,Carroll,Wittleton,cwittletongx@wordpress.org,520-101-2853,27 Truax Street,2021-10-14,Between500kTo1m,Master,8
+parentid,611,parentid_611,Alair,Siana,Burtwistle,sburtwistlegy@nsw.gov.au,545-843-7258,438 Sunfield Plaza,2019-12-25,Between50kTo100k,Master,9
+parentid,612,parentid_612,Gearard,Zorana,Bootell,zbootellgz@yellowbook.com,573-625-0582,227 Annamark Street,2024-09-06,Below50k,Bachelor,9
+parentid,613,parentid_613,Sumner,Gussi,Wraith,gwraithh0@tinyurl.com,278-299-5705,3977 Butternut Court,2022-11-21,Between200kTo500k,Master,1
+parentid,614,parentid_614,Ninon,Grete,Chesters,gchestersh1@aboutads.info,752-265-8195,56636 Surrey Street,2018-12-06,Between2mTo5m,Bachelor,9
+parentid,615,parentid_615,Carena,Devi,Heasman,dheasmanh2@squidoo.com,867-550-1184,71 Farmco Court,2019-10-20,Between2mTo5m,Master,10
+parentid,616,parentid_616,Hollyanne,Base,Lefley,blefleyh3@ocn.ne.jp,203-196-5712,43764 Macpherson Road,2018-10-23,Between1mTo2m,Master,5
+parentid,617,parentid_617,Tedd,Shae,Clowes,sclowesh4@quantcast.com,686-123-3009,315 Butterfield Road,2022-09-06,Between100kTo200k,Master,5
+parentid,618,parentid_618,Elia,Adey,Caitlin,acaitlinh5@prnewswire.com,368-150-0870,66 Clyde Gallagher Point,2021-05-19,Between200kTo500k,Master,10
+parentid,619,parentid_619,Karia,Nanice,Wilfing,nwilfingh6@biglobe.ne.jp,436-648-3528,1 Maple Wood Point,2019-02-06,Between500kTo1m,Diploma,7
+parentid,620,parentid_620,Lavina,Shelia,Russan,srussanh7@geocities.jp,910-636-2002,65 Melody Place,2020-12-04,Below50k,Master,9
+parentid,621,parentid_621,Davide,Ulises,Courtney,ucourtneyh8@ted.com,775-136-1105,312 Banding Trail,2019-02-17,Between200kTo500k,Bachelor,3
+parentid,622,parentid_622,Rosalia,Carline,Deschelle,cdeschelleh9@youku.com,408-950-7004,70 Golden Leaf Avenue,2021-08-27,Between50kTo100k,Primary,8
+parentid,623,parentid_623,Ethelin,Nomi,Strickett,nstrickettha@opensource.org,107-277-0849,942 Ronald Regan Trail,2022-08-22,Between1mTo2m,Master,3
+parentid,624,parentid_624,Layney,Rickey,Scantlebury,rscantleburyhb@hibu.com,588-232-7575,4315 Rigney Point,2023-09-07,Between100kTo200k,Master,4
+parentid,625,parentid_625,Roseanne,Rafaelia,Stockings,rstockingshc@hud.gov,534-886-1464,8923 Brown Place,2022-03-17,Above5m,Master,10
+parentid,626,parentid_626,Ilaire,Elva,Keuntje,ekeuntjehd@nature.com,307-372-9231,289 Tennyson Terrace,2019-02-09,Between200kTo500k,Master,7
+parentid,627,parentid_627,Terrye,Shir,Cousin,scousinhe@mayoclinic.com,456-347-0022,790 Prairieview Plaza,2019-09-24,Between1mTo2m,Master,6
+parentid,628,parentid_628,Rollie,Granny,Inder,ginderhf@fotki.com,223-368-4412,5 Northfield Avenue,2024-02-16,Between2mTo5m,Other,1
+parentid,629,parentid_629,Kristy,Lin,Gianasi,lgianasihg@netlog.com,705-898-9211,403 Linden Point,2021-01-06,Between2mTo5m,Master,5
+parentid,630,parentid_630,Aubrey,Corabella,Peaddie,cpeaddiehh@360.cn,667-622-3897,16171 Golf Hill,2022-04-04,Between200kTo500k,Master,4
+parentid,631,parentid_631,Tallou,Danell,Mansfield,dmansfieldhi@nymag.com,414-240-3570,85500 Grasskamp Trail,2022-11-30,Between50kTo100k,Bachelor,2
+parentid,632,parentid_632,Jorry,Humberto,Denerley,hdenerleyhj@patch.com,684-628-1127,89 Springs Point,2022-12-12,Between200kTo500k,Bachelor,1
+parentid,633,parentid_633,Malchy,Paulie,Bamborough,pbamboroughhk@vkontakte.ru,824-859-2619,43116 Gina Terrace,2023-05-11,Below50k,Master,8
+parentid,634,parentid_634,Leon,Roley,Wardall,rwardallhl@google.it,534-797-8689,274 3rd Parkway,2022-11-04,Between200kTo500k,Master,10
+parentid,635,parentid_635,Natty,Orton,Brotherwood,obrotherwoodhm@ebay.co.uk,849-162-7451,6 Upham Avenue,2021-10-05,Between100kTo200k,Master,5
+parentid,636,parentid_636,Linus,Lauree,O'Cooney,locooneyhn@discuz.net,637-931-4396,682 Arkansas Parkway,2020-01-20,Between50kTo100k,Master,1
+parentid,637,parentid_637,Ashley,Friederike,Aitken,faitkenho@alexa.com,521-955-2325,5 Cherokee Trail,2019-02-27,Between500kTo1m,Master,3
+parentid,638,parentid_638,Bette,Falkner,Joyson,fjoysonhp@yandex.ru,826-559-0672,54 Melby Trail,2024-06-13,Between2mTo5m,Master,5
+parentid,639,parentid_639,Cornelia,Dulce,Delafoy,ddelafoyhq@wsj.com,212-795-8335,954 Heffernan Crossing,2021-03-08,Between2mTo5m,Master,3
+parentid,640,parentid_640,Dalton,Ursuline,Glencorse,uglencorsehr@addthis.com,535-876-2619,02 Anzinger Crossing,2023-07-22,Between2mTo5m,Master,3
+parentid,641,parentid_641,Haywood,Deb,Mayou,dmayouhs@sciencedirect.com,598-124-2516,852 Katie Terrace,2019-06-20,Between2mTo5m,Master,9
+parentid,642,parentid_642,Vanya,Belinda,McKennan,bmckennanht@wiley.com,800-122-8921,4 Anniversary Terrace,2023-08-21,Between1mTo2m,Master,1
+parentid,643,parentid_643,Conni,Giff,Pre,gprehu@taobao.com,423-836-8308,4939 Tomscot Place,2020-08-17,Between2mTo5m,Master,1
+parentid,644,parentid_644,Marion,Lyndsey,McVee,lmcveehv@ask.com,161-136-4879,649 Dexter Avenue,2023-11-01,Above5m,Master,4
+parentid,645,parentid_645,Eldredge,Andros,Hagley,ahagleyhw@free.fr,138-680-6669,64357 Thierer Hill,2022-08-01,Between500kTo1m,Bachelor,7
+parentid,646,parentid_646,Gaspard,Tabbie,Jaqueminet,tjaqueminethx@army.mil,113-417-1514,5 Boyd Crossing,2022-06-29,Above5m,Master,9
+parentid,647,parentid_647,Morse,Francesca,Tweed,ftweedhy@salon.com,112-121-2570,97756 Tony Terrace,2019-04-26,Above5m,Bachelor,2
+parentid,648,parentid_648,Myron,Danyette,Brindle,dbrindlehz@examiner.com,425-425-8838,0 Cherokee Place,2024-03-24,Above5m,Master,5
+parentid,649,parentid_649,Wat,Trenton,Ridings,tridingsi0@hp.com,261-588-8153,60 Mccormick Park,2021-08-01,Below50k,Master,8
+parentid,650,parentid_650,Tiena,Amory,Reubens,areubensi1@qq.com,305-594-4764,1 Scott Alley,2024-04-07,Between50kTo100k,Master,6
+parentid,651,parentid_651,Rycca,Zackariah,McKiddin,zmckiddini2@cpanel.net,750-316-3310,08 Kennedy Hill,2019-01-06,Between50kTo100k,Master,8
+parentid,652,parentid_652,Farlee,Damara,Digan,ddigani3@etsy.com,654-738-4122,90045 Vahlen Junction,2020-01-08,Between200kTo500k,Primary,9
+parentid,653,parentid_653,Malorie,Portia,Colbeck,pcolbecki4@trellian.com,447-547-0573,95 Drewry Court,2022-04-15,Between1mTo2m,Bachelor,6
+parentid,654,parentid_654,Aurelia,Mira,Fortnam,mfortnami5@reuters.com,898-482-8395,1158 Lerdahl Terrace,2023-06-07,Between2mTo5m,Master,10
+parentid,655,parentid_655,Lilas,Rudyard,Enston,renstoni6@google.co.jp,489-294-8586,7 Northport Way,2022-11-13,Between100kTo200k,Master,9
+parentid,656,parentid_656,Axe,Micky,Rojas,mrojasi7@columbia.edu,650-590-7774,2338 Golf View Street,2020-05-11,Below50k,Master,1
+parentid,657,parentid_657,Derwin,Donia,Cozins,dcozinsi8@businesswire.com,863-469-3969,3 Tony Center,2019-03-16,Between50kTo100k,Master,10
+parentid,658,parentid_658,Jessie,Tonie,Have,thavei9@bloglovin.com,507-630-6621,7482 Logan Junction,2021-10-19,Between2mTo5m,Master,2
+parentid,659,parentid_659,Callida,Wallis,Risbie,wrisbieia@microsoft.com,990-581-1171,4 Lake View Drive,2022-07-29,Between1mTo2m,Bachelor,2
+parentid,660,parentid_660,Zarla,Denys,Nolton,dnoltonib@gmpg.org,755-907-6633,5025 North Center,2021-04-06,Above5m,Master,6
+parentid,661,parentid_661,Orland,Katti,Slowcock,kslowcockic@irs.gov,165-249-4889,8827 Doe Crossing Avenue,2021-12-12,Between500kTo1m,Master,7
+parentid,662,parentid_662,Royall,Nealon,Jouanot,njouanotid@hatena.ne.jp,226-362-1937,70981 Monterey Junction,2019-09-11,Between200kTo500k,Primary,7
+parentid,663,parentid_663,Randall,Devland,Corro,dcorroie@reference.com,517-597-8638,69 Meadow Valley Road,2024-01-31,Above5m,Master,3
+parentid,664,parentid_664,Reeta,Ira,Chamley,ichamleyif@bluehost.com,759-553-1803,5704 3rd Road,2023-11-28,Between50kTo100k,Bachelor,8
+parentid,665,parentid_665,Miran,Jacintha,Every,jeveryig@dropbox.com,781-562-2944,4595 Service Plaza,2022-08-04,Between1mTo2m,Master,1
+parentid,666,parentid_666,Storm,Rasla,Tinmouth,rtinmouthih@globo.com,389-310-3638,77 Shoshone Avenue,2020-01-09,Between500kTo1m,Master,7
+parentid,667,parentid_667,Nealson,Lemar,MacGillespie,lmacgillespieii@xing.com,869-536-3482,41 Raven Court,2023-12-18,Between200kTo500k,Master,7
+parentid,668,parentid_668,Gayel,Brena,Piddletown,bpiddletownij@thetimes.co.uk,401-122-2664,43617 Artisan Point,2021-11-08,Between200kTo500k,Unknown,6
+parentid,669,parentid_669,Aloisia,Brandy,Issacof,bissacofik@npr.org,729-345-9666,211 Gulseth Hill,2022-09-16,Between500kTo1m,Master,8
+parentid,670,parentid_670,Keane,Linus,Caro,lcaroil@miitbeian.gov.cn,175-272-4654,897 Bluestem Point,2020-10-01,Between100kTo200k,Master,6
+parentid,671,parentid_671,Naomi,Ravi,Oake,roakeim@hhs.gov,939-104-3440,0 Canary Avenue,2024-01-10,Between500kTo1m,Diploma,1
+parentid,672,parentid_672,Dolly,Thibaut,McTague,tmctaguein@blinklist.com,444-300-7444,4735 Moland Parkway,2023-03-29,Between100kTo200k,Master,2
+parentid,673,parentid_673,Constantine,Hillyer,Cory,hcoryio@aol.com,446-128-3420,7 Hoard Drive,2022-12-06,Between200kTo500k,Bachelor,3
+parentid,674,parentid_674,Cale,Charles,Gannon,cgannonip@mozilla.com,483-272-9433,203 Pepper Wood Avenue,2021-10-19,Above5m,Master,7
+parentid,675,parentid_675,Sky,Dee,Pirouet,dpirouetiq@nationalgeographic.com,871-391-9031,73115 Colorado Alley,2021-08-13,Between1mTo2m,Master,1
+parentid,676,parentid_676,Dell,Raimundo,Innott,rinnottir@npr.org,576-132-4360,5515 Spenser Place,2022-12-22,Between200kTo500k,Master,7
+parentid,677,parentid_677,Lula,Sayres,Howchin,showchinis@163.com,622-755-6782,8215 Reindahl Terrace,2024-01-08,Between200kTo500k,Master,8
+parentid,678,parentid_678,Virgil,Veriee,Sotheby,vsothebyit@gravatar.com,647-144-9824,8 Jackson Trail,2021-09-19,Between200kTo500k,Master,4
+parentid,679,parentid_679,Neill,Nikolia,Antham,nanthamiu@usda.gov,987-578-4865,99678 Farwell Way,2022-06-28,Between100kTo200k,Master,8
+parentid,680,parentid_680,Nelia,Standford,Scotland,sscotlandiv@nature.com,716-650-7738,00 Drewry Point,2019-04-11,Below50k,Master,2
+parentid,681,parentid_681,Celestyna,Seamus,Durrans,sdurransiw@wordpress.com,270-965-3270,4 Mallory Junction,2024-04-07,Below50k,Master,6
+parentid,682,parentid_682,Maynord,Caria,Wibrew,cwibrewix@wired.com,197-276-3589,6 Montana Avenue,2019-11-09,Above5m,Secondary,2
+parentid,683,parentid_683,Isidore,Amble,Fronek,afronekiy@163.com,676-978-8172,67636 Eagan Hill,2022-12-21,Above5m,Master,2
+parentid,684,parentid_684,Anthiathia,Bea,Preshaw,bpreshawiz@posterous.com,167-412-3471,07044 Dahle Circle,2021-12-05,Between200kTo500k,Master,10
+parentid,685,parentid_685,Vivi,Natassia,Cicculi,ncicculij0@arizona.edu,898-402-2694,33 Blaine Center,2022-06-18,Below50k,Master,10
+parentid,686,parentid_686,Joleen,Willy,Jacqueminet,wjacqueminetj1@globo.com,798-315-8797,3 Division Circle,2019-02-05,Between500kTo1m,Master,4
+parentid,687,parentid_687,Jacinda,Shanna,Schurcke,sschurckej2@sina.com.cn,362-965-1385,51717 Gale Hill,2020-05-03,Below50k,Master,5
+parentid,688,parentid_688,Tony,Jessamyn,Mc Combe,jmccombej3@huffingtonpost.com,307-784-6092,9 Gateway Alley,2021-07-23,Between1mTo2m,Master,7
+parentid,689,parentid_689,Mattie,Gerhardt,Stuckley,gstuckleyj4@indiatimes.com,559-693-8529,49271 Menomonie Alley,2018-12-14,Between2mTo5m,Master,7
+parentid,690,parentid_690,Clifford,Norton,Aiston,naistonj5@theguardian.com,410-994-0326,6033 Nancy Trail,2022-03-15,Between200kTo500k,Master,3
+parentid,691,parentid_691,Tann,Hazel,Cheake,hcheakej6@plala.or.jp,789-989-6569,9645 Sutteridge Parkway,2021-12-19,Above5m,Master,2
+parentid,692,parentid_692,Burton,Rosalyn,Grafom,rgrafomj7@sbwire.com,602-202-7552,33553 Arkansas Plaza,2023-03-25,Below50k,Master,5
+parentid,693,parentid_693,Yolane,Eduard,MacGaughy,emacgaughyj8@youku.com,455-633-0187,5911 Amoth Avenue,2020-07-31,Above5m,Master,9
+parentid,694,parentid_694,Georgina,Gloriane,Piwell,gpiwellj9@hostgator.com,893-771-4954,5 Talisman Plaza,2019-11-14,Between500kTo1m,Master,1
+parentid,695,parentid_695,Wain,Jasen,Almond,jalmondja@fc2.com,363-431-8547,06812 Sycamore Trail,2020-12-04,Between2mTo5m,Master,1
+parentid,696,parentid_696,Kermy,Shirlee,Clerk,sclerkjb@flickr.com,507-326-7258,8258 Rusk Pass,2019-02-08,Between50kTo100k,Master,8
+parentid,697,parentid_697,Guillaume,Haily,Gebbe,hgebbejc@tripod.com,598-739-7638,8 Ruskin Avenue,2023-04-10,Between1mTo2m,Master,10
+parentid,698,parentid_698,Almeda,Yurik,Grimbleby,ygrimblebyjd@webs.com,260-319-0151,1069 Sheridan Drive,2022-06-04,Between1mTo2m,Master,7
+parentid,699,parentid_699,Jo,Binni,Kenny,bkennyje@princeton.edu,650-178-2689,6 Annamark Terrace,2022-10-01,Between500kTo1m,Master,10
+parentid,700,parentid_700,Flinn,Felice,Threader,fthreaderjf@hexun.com,473-669-6619,36966 Spaight Avenue,2021-07-02,Above5m,Master,2
+parentid,701,parentid_701,Sheffie,Thibaut,Kelcher,tkelcherjg@seattletimes.com,575-264-9581,773 Mitchell Drive,2023-02-03,Between100kTo200k,Master,6
+parentid,702,parentid_702,Gasper,Land,Clardge,lclardgejh@jimdo.com,295-848-8047,1801 Westend Drive,2019-09-02,Between2mTo5m,Master,3
+parentid,703,parentid_703,Dorelle,Gilles,Getch,ggetchji@yelp.com,621-648-0855,90912 Hazelcrest Drive,2024-08-30,Above5m,Bachelor,5
+parentid,704,parentid_704,Gabrielle,Evyn,Tayt,etaytjj@i2i.jp,672-372-7567,025 Gale Alley,2023-06-02,Between200kTo500k,Master,5
+parentid,705,parentid_705,Sam,Perrine,Bampfield,pbampfieldjk@bbb.org,234-408-6877,3 Straubel Circle,2019-12-18,Between50kTo100k,Master,5
+parentid,706,parentid_706,Jerrilee,Fairfax,Gallear,fgallearjl@last.fm,677-357-9138,11 Surrey Lane,2024-05-19,Between2mTo5m,Master,10
+parentid,707,parentid_707,Kermit,Filide,Barnbrook,fbarnbrookjm@mozilla.org,316-456-1521,3700 Dovetail Place,2019-03-28,Between2mTo5m,Unknown,6
+parentid,708,parentid_708,Godfrey,Bren,Sleeny,bsleenyjn@amazonaws.com,318-314-1194,6973 Bunting Crossing,2023-07-12,Between500kTo1m,Master,8
+parentid,709,parentid_709,Doralin,Paten,Rickerd,prickerdjo@sbwire.com,729-605-4724,24 Morningstar Trail,2024-07-20,Between200kTo500k,Master,10
+parentid,710,parentid_710,Felizio,Babette,Bilston,bbilstonjp@cbc.ca,172-673-6668,7 Brentwood Drive,2022-03-27,Above5m,Master,6
+parentid,711,parentid_711,Tish,Morna,Heliot,mheliotjq@furl.net,739-843-6405,9702 Eastlawn Drive,2021-06-04,Between50kTo100k,Master,3
+parentid,712,parentid_712,Lucila,Linnet,Stirtle,lstirtlejr@xing.com,832-671-3276,3 Hoffman Circle,2020-07-10,Between500kTo1m,Master,1
+parentid,713,parentid_713,Yoshiko,Cash,Ferreiro,cferreirojs@geocities.jp,755-190-8305,33 Grayhawk Avenue,2023-07-19,Above5m,Master,8
+parentid,714,parentid_714,Jacky,Melisande,Bradbury,mbradburyjt@networksolutions.com,665-230-7877,89 Atwood Park,2019-05-06,Between500kTo1m,Master,7
+parentid,715,parentid_715,Cesaro,Edithe,Simoni,esimoniju@behance.net,463-686-7870,26394 Sycamore Road,2020-05-05,Above5m,Bachelor,5
+parentid,716,parentid_716,Joceline,Millisent,Shakelady,mshakeladyjv@seesaa.net,180-922-0423,919 Dunning Place,2021-03-11,Between2mTo5m,Master,6
+parentid,717,parentid_717,Dukie,Nil,Ninnotti,nninnottijw@hostgator.com,148-930-1854,0 Hanson Alley,2022-01-04,Between1mTo2m,Master,4
+parentid,718,parentid_718,Silvan,Benni,Fulkes,bfulkesjx@chron.com,136-931-4128,5 Lawn Point,2018-11-27,Between50kTo100k,Other,10
+parentid,719,parentid_719,Gayel,Bran,Golledge,bgolledgejy@ask.com,321-366-2787,6 Little Fleur Crossing,2019-06-20,Between2mTo5m,Master,5
+parentid,720,parentid_720,Megan,Barb,Bowler,bbowlerjz@amazon.co.uk,717-865-5010,406 Calypso Crossing,2021-06-06,Between2mTo5m,Master,8
