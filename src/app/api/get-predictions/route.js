@@ -19,7 +19,9 @@ export async function GET() {
       LIMIT 5
     `);
 
+    console.log(NextResponse.json(result.rows));
     return NextResponse.json(result.rows); // Send the query result as JSON
+  
   } catch (error) {
     console.error('Error querying student predictions:', error);
     return NextResponse.error();
