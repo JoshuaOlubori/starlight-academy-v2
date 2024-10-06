@@ -225,7 +225,7 @@ model Student_Club {
 model disciplinary_record {
   id          Int   @id @default(autoincrement())  // Changed id to Int with autoincrement
   student     Student  @relation(fields: [studentId], references: [id])
-  studentId   String
+  studentId String
   incidentDate DateTime     @default(now())
   incidentDescription String?
   infraction  Infraction

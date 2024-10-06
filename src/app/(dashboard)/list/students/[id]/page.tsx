@@ -34,6 +34,13 @@ const SingleStudentPage = async ({
     return notFound();
   }
 
+  const disciplinary_records = await prisma.disciplinary_record.findMany({
+    where: {
+      studentid: id
+    },
+  });
+
+
   return (
     <div className="flex-1 p-4 flex flex-col gap-4 xl:flex-row">
       {/* LEFT */}
@@ -67,6 +74,8 @@ const SingleStudentPage = async ({
                 <div className="w-full md:w-1/3 lg:w-full 2xl:w-1/3 flex items-center gap-2">
                   <Image src="/blood.png" alt="" width={14} height={14} />
                   <span>{student.bloodType}</span>
+                  <span>Disciplinary records: {Object.keys(disciplinary_records).length}</span>
+                  
                 </div>
                 <div className="w-full md:w-1/3 lg:w-full 2xl:w-1/3 flex items-center gap-2">
                   <Image src="/date.png" alt="" width={14} height={14} />
@@ -111,7 +120,7 @@ const SingleStudentPage = async ({
               />
               <div className="">
                 <h1 className="text-xl font-semibold">
-                  {student.class.name.charAt(0)}th
+                  {student.class.name.substring(0, 3)}
                 </h1>
                 <span className="text-sm text-gray-400">Grade</span>
               </div>
