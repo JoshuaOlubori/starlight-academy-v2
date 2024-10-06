@@ -266,14 +266,16 @@ const StudentForm = ({
         </div>
 
         {/* Additional Fields for the Student Model */}
-        <InputField
+        {type == "update" &&
+        (<InputField
           label="Mental Health Score (0-10)"
           name="mental_health_score"
           type="number"
           defaultValue={data?.mental_health_score ? String(data.mental_health_score) : ""}
           register={register}
           error={errors.mental_health_score}
-        />
+        />)
+}
         <InputField
           label="Is Boarding"
           name="is_boarding"
