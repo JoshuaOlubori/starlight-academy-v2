@@ -34,9 +34,11 @@ const SingleStudentPage = async ({
     return notFound();
   }
 
+  console.log(student);
+
   const disciplinary_records = await prisma.disciplinary_record.findMany({
     where: {
-      studentid: id
+      studentId: id
     },
   });
 

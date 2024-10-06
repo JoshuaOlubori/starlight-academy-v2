@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev School Management Dashboard",
+  title: "Starlight",
   description: "Next.js School Management System",
 };
 
@@ -21,6 +21,7 @@ export default function RootLayout({
   return (
    <ClerkProvider>
       <html lang="en">
+      <link rel="shortcut icon" href="/lighthouse.svg" />
         <body className={inter.className}>
           {children} <ToastContainer position="bottom-right" theme="dark" />
         </body>
