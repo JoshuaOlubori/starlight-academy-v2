@@ -40,7 +40,7 @@ model Student {
   disability      String?
   number_of_siblings Int?
   internet_access_at_home Boolean
-  clubs       Student_Club[]   // Added opposite relation for Student_Club
+  clubs       Club[]   // Added opposite relation for Student_Club
   disciplinary_records disciplinary_record[]  // Added opposite relation for DisciplinaryRecord
 }
 
@@ -195,13 +195,13 @@ model Announcement {
 }
 
 model Club {
-  id        String   @id 
+  id        Int   @id 
   name      String   @unique
   description String?
   category  ClubCategory
   createdAt DateTime @default(now())
   updatedAt DateTime @default(now())
-  students  Student_Club[]
+  students  Student[]
 }
 
 enum ClubCategory {
@@ -210,16 +210,6 @@ enum ClubCategory {
   Academic
   Cultural
   Other
-}
-
-model Student_Club {
-  student   Student @relation(fields: [studentId], references: [id])
-  studentId String
-  club      Club @relation(fields: [clubId], references: [id])
-  clubId    String
-  joinDate  DateTime
-  role      StudentClubRole
-  @@id([studentId, clubId])
 }
 
 model disciplinary_record {
