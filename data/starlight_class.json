@@ -1,0 +1,6 @@
+[{"id":1,"name":"JSS1","capacity":27,"supervisorId":"teacherid_9","gradeId":1},
+{"id":2,"name":"JSS2","capacity":28,"supervisorId":"teacherid_3","gradeId":2},
+{"id":3,"name":"JSS3","capacity":28,"supervisorId":"teacherid_10","gradeId":3},
+{"id":4,"name":"SSS1","capacity":16,"supervisorId":"teacherid_11","gradeId":6},
+{"id":5,"name":"SSS2","capacity":25,"supervisorId":"teacherid_10","gradeId":5},
+{"id":6,"name":"SSS3","capacity":19,"supervisorId":"teacherid_4","gradeId":1}]
