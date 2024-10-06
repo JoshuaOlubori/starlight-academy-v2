@@ -4,6 +4,7 @@ import CountChartContainer from "@/components/CountChartContainer";
 import EventCalendarContainer from "@/components/EventCalendarContainer";
 import FinanceChart from "@/components/FinanceChart";
 import UserCard from "@/components/UserCard";
+import  StudentPredictionsContainer  from "@/components/PredictionContainer"
 
 const AdminPage = ({
   searchParams,
@@ -34,7 +35,8 @@ const AdminPage = ({
         </div>
         {/* BOTTOM CHART */}
         <div className="w-full h-[500px]">
-          <FinanceChart />
+          {/* <FinanceChart /> */}
+          <StudentPredictionsContainer />
         </div>
       </div>
       {/* RIGHT */}
