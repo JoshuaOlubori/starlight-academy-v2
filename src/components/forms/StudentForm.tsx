@@ -317,7 +317,6 @@ const StudentForm = ({
           type="number"
           defaultValue={data?.number_of_siblings ? String(data.number_of_siblings) : ""}
           register={register}
-          register={register}
           error={errors.number_of_siblings}
         />
         <InputField
