@@ -16,7 +16,7 @@ const StudentPredictionsContainer = () => {
         }
         const data = await response.json();
 
-        console.log("DATA is", data); // Confirm structure here
+       // console.log("DATA is", data); // Confirm structure here
         setPredictions(data);
       } catch (err) {
         console.error("Error fetching predictions:", err); // Log the error
@@ -29,7 +29,7 @@ const StudentPredictionsContainer = () => {
     fetchPredictions();
   }, []);
 
-  if (loading) return <div>Loading...</div>;
+  if (loading) return <div>Fetching at-risks students...</div>;
   if (error) return <div>Error: {error}</div>;
 
   return <StudentPredictionsTable data={predictions} />;
