@@ -106,3 +106,15 @@
   color: gray !important;
   margin-bottom: 5px;
 }
+
+html {
+  font-family: var(--font-space_mono);
+}
+
+.tfont {
+  font-family: var(--font-montserrat);
+}
+ 
+.bfont {
+  font-family: var(--font-space_mono);
+}

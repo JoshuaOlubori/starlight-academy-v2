@@ -16,9 +16,9 @@ const config: Config = {
   		colors: {
   			lamaSky: '#C3EBFA',
   			lamaSkyLight: '#EDF9FD',
-  			lamaPurple: '#CFCEFF',
+  			orangeDark: '#FAED26', // formerly lamaPurple
   			lamaPurpleLight: '#F1F0FF',
-  			lamaYellow: '#FAE27C',
+  			deepBlack: '#46344E',  // formerly lamaYellow
   			lamaYellowLight: '#FEFCE8',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
