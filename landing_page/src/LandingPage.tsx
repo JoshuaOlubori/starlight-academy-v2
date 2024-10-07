@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { ArrowRight, Play, Pause } from "lucide-react"; // Icons from Lucide
 import { Button } from "@/components/ui/button"
 import avatar1 from "@/assets/placeholder1.svg";
-import avatar2 from "@/assets/placeholder2.svg";
+import avatar2 from "@/assets/joshua_profile.jpg";
 import avatar3 from "@/assets/placeholder3.svg";
 
 const teamMembers = [
@@ -16,9 +16,9 @@ const teamMembers = [
   },
   {
     imgSrc: avatar2,
-    imgAlt: "John Smith profile picture",
-    name: "John Smith",
-    role: "UX Designer",
+    imgAlt: "Edun Joshua profile picture",
+    name: "Edun Joshua",
+    role: "Data Engineer & Full Stack Dev",
     description:
       "Because not all superheroes wear capes, some wear headphones and stare at Figma screens.",
   },
@@ -55,17 +55,17 @@ export default function LandingPage() {
     <div className="min-h-screen bg-white text-black font-mono p-8">
       <header className="mb-12">
         <h1 className="text-6xl font-bold mb-4">STARLIGHT</h1>
-        <p className="text-xl">School Management App</p>
+        <p className="text-xl">A Tech-Ed intervention</p>
       </header>
 
       <main className="space-y-16">
         <section className="border-4 border-black p-6">
           <h2 className="text-4xl font-bold mb-4">THE PROBLEM</h2>
           <p className="text-lg">
-            Student exam failure is a critical issue in education. It leads to
+            Mass exam failure is a concerning issue in Nigerian JAMB examinations. It leads to
             decreased motivation, increased dropout rates, and long-term
-            negative impacts on career prospects. Starlight aims to tackle this
-            problem head-on by identifying at-risk students early.
+            negative impacts on career prospects. Starlight is a response to this issue, attempting 
+            to identify at-risk students early for subsequent intervention.
           </p>
         </section>
 
@@ -131,7 +131,7 @@ export default function LandingPage() {
           </p>
           <p className="text-lg mb-4">Username: admin | Password: admin</p>
           <Button className="bg-black text-white text-xl py-6 px-8 hover:bg-gray-800">
-            <a href="https://starlight-app.example.com/login">LOGIN NOW</a>
+            <a href="https://app-starlight.onrender.com/" target="_blank">LOGIN NOW</a>
           </Button>
         </section>
         <section className="bg-blue-200 p-4 sm:p-6">
@@ -163,16 +163,17 @@ export default function LandingPage() {
           </p>
           <div className="bg-gray-200 p-4 mb-4">
             <p className="text-center text-lg font-bold">
-              Streamlit App Placeholder
+              {/* Streamlit App Placeholder */}
             </p>
-            <p className="text-center">The Streamlit app will be embedded here</p>
+            {/* <p className="text-center">The Streamlit app will be embedded here</p> */}
+            <iframe src="https://student-pass-predictor.streamlit.app?embed=True" style={{ width: '100%', height: '500px' }}></iframe>
           </div>
           <Button className="bg-green-600 hover:bg-green-700 w-full sm:w-auto">
             <a
               href="#streamlit-app"
               className="flex items-center justify-center text-white text-base sm:text-xl py-2 px-4 w-full"
             >
-              <span className="mr-2">Try the Prediction Tool</span>
+              <span className="mr-2">It might take a while for the app to load. Just streamlit things...🙄</span>
               <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5" />
             </a>
           </Button>

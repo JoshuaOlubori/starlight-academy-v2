@@ -10,6 +10,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+
 // const inter = Inter({ subsets: ["latin"] });
 
 // const montserrat = Montserrat({ subsets: ["latin"] });
@@ -33,6 +34,7 @@ export default function RootLayout({
       <link rel="shortcut icon" href="/lighthouse.svg" />
         <body>
           {children} <ToastContainer position="bottom-right" theme="dark" />
+         
         </body>
       </html>
   </ClerkProvider>

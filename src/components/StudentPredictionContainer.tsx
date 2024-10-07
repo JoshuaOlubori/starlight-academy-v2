@@ -32,7 +32,14 @@ const StudentPredictionsContainer = () => {
   if (loading) return <div>Fetching at-risks students...</div>;
   if (error) return <div>Error: {error}</div>;
 
-  return <StudentPredictionsTable data={predictions} />;
+  return (
+  <div>
+    <div>
+        Powered by BigQuery ML 🚀
+      </div>
+      <StudentPredictionsTable data={predictions} />
+  </div>
+  );
 };
 
 export default StudentPredictionsContainer;
