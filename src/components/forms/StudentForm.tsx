@@ -17,6 +17,9 @@ import {
 import { useRouter } from "next/navigation";
 import { toast } from "react-toastify";
 import { CldUploadWidget } from "next-cloudinary";
+import prisma from "@/lib/prisma";
+// import { Class, Prisma, Subject, Teacher } from "@prisma/client";
+
 
 const StudentForm = ({
   type,
@@ -36,8 +39,36 @@ const StudentForm = ({
   } = useForm<StudentSchema>({
     resolver: zodResolver(studentSchema),
   });
+  // const [recentParents, setRecentParents] = useState([]);
 
-  const [img, setImg] = useState<any>();
+  // async function getRecentParents() {
+  //   try {
+  //     const result = await prisma.parent.findMany({
+  //       orderBy: {
+  //         createdAt: 'desc',
+  //       },
+  //       take: 5,
+  //     });
+
+  //     return result; // Directly return the result array
+  //   } catch (error) {
+  //     console.error(error);
+  //     return []; // Return an empty array in case of error
+  //   }
+  // }
+
+  // useEffect(() => {
+  //   const fetchParents = async () => {
+  //     const parents = await getRecentParents();
+  //     setRecentParents(parents); // Set the state with the resolved array
+  //   };
+    
+  //   fetchParents();
+  // }, []);
+
+
+  // const [img, setImg] = useState<any>();
+  // const [parents, setParents] = useState([]);
 
   const [state, formAction] = useFormState(
     type === "create" ? createStudent : updateStudent,
@@ -64,7 +95,45 @@ const StudentForm = ({
     }
   }, [state, router, type, setOpen]);
 
-  const { grades, classes } = relatedData;
+  
+
+  // // Fetch the most recent 5 parents
+  // useEffect(() => {
+  //   const fetchParents = async () => {
+  //     const recentParents = await prisma.parent.findMany({
+  //       orderBy: {
+  //         createdAt: 'desc',
+  //       },
+  //       take: 5,
+  //     });
+  //     setParents(recentParents);
+  //   };
+  //   fetchParents();
+  // }, []);
+//   async function getRecentParents() {
+//     try {
+//       const result = await prisma.parent.findMany({
+//         orderBy: {
+//           createdAt: 'desc',
+//         },
+//         take: 5,
+//       });
+  
+//       const resultObj = {
+//         recentParents: result,
+//       };
+  
+//       // Use or return the result object
+//       console.log("parent ids",resultObj);
+//       return resultObj;
+//     } catch (error) {
+//       console.error(error);
+//     }
+//   }
+//  const recentParents =  getRecentParents()
+// console.log(recentParents);
+
+  const { grades, classes, parents } = relatedData;
  const departments = ['science','arts','commerce','none'];
   const DISABILITY = ['None', 'Visual', 'Hearing', 'Physical', 'Learning', 'Other'];
 
@@ -164,7 +233,33 @@ const StudentForm = ({
           error={errors.birthday}
           type="date"
         />
-        <InputField
+
+
+<div className="flex flex-col gap-2 w-full md:w-1/4">
+          <label className="text-xs text-gray-500">Parent Id</label>
+          <select
+            className="ring-[1.5px] ring-gray-300 p-2 rounded-md text-sm w-full"
+            {...register("parentId")}
+            defaultValue={data?.parentId}
+          >
+            <option value="">Select Parent</option>
+            {parents.map((parent) => (
+              <option value={parent.id} key={parent.id}>
+                {parent.id}
+              </option>
+            ))}
+          </select>
+          {errors.parentId?.message && (
+            <p className="text-xs text-red-400">
+              {errors.parentId.message.toString()}
+            </p>
+          )}
+        </div>
+
+
+
+
+        {/* <InputField
           label="Parent Id"
           name="parentId"
           defaultValue={data?.parentId}
@@ -180,7 +275,7 @@ const StudentForm = ({
             error={errors?.id}
             hidden
           />
-        )}
+        )} */}
         <div className="flex flex-col gap-2 w-full md:w-1/4">
           <label className="text-xs text-gray-500">Sex</label>
           <select

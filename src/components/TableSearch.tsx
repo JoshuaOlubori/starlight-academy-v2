@@ -29,8 +29,8 @@ const TableSearch = () => {
       className="relative flex mr-auto w-full max-w-64 flex-col gap-1 text-black dark:text-neutral-200"
     >
       {/* <Image src="/search.png" alt="" width={14} height={14} /> */}
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="absolute left-2.5 top-1/2 size-5 -translate-y-1/2 text-black/50 dark:text-neutral-200/50"> 
-			<path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" aria-hidden="true" className="absolute left-2.5 top-1/2 size-5 -translate-y-1/2 text-black/50 dark:text-neutral-200/50"> 
+			<path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
 		</svg>
       <input
         type="text"

@@ -62,7 +62,13 @@ const FormContainer = async ({ table, type, data, id }: FormContainerProps) => {
           distinct: ['department'],  // This ensures you get unique departments
           select: { department: true },
         });
-        relatedData = { classes: studentClasses, grades: studentGrades, departments: studentDepartments };
+        const recentParents = await prisma.parent.findMany({
+          orderBy: {
+            createdAt: 'desc',
+          },
+          take: 5,
+        });
+        relatedData = { classes: studentClasses, grades: studentGrades, departments: studentDepartments, parents: recentParents };
         break;
       case "exam":
         const examLessons = await prisma.lesson.findMany({
