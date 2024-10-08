@@ -1,18 +1,18 @@
 import { useState, useEffect } from "react";
 import { ArrowRight, Play, Pause } from "lucide-react"; // Icons from Lucide
 import { Button } from "@/components/ui/button"
-import avatar1 from "@/assets/placeholder1.svg";
+import avatar1 from "@/assets/mkm.png";
 import avatar2 from "@/assets/joshua_profile.jpg";
-import avatar3 from "@/assets/placeholder3.svg";
+import avatar3 from "@/assets/mb.png";
 
 const teamMembers = [
   {
     imgSrc: avatar1, // No need for width/height in the URL here
-    imgAlt: "Jane Doe profile picture",
-    name: "Jane Doe",
-    role: "Lead Developer",
+    imgAlt: "Makinde Kayode",
+    name: "Makinde Kayode",
+    role: "Data Scientist",
     description:
-      "The architect of our digital world, constantly battling against her mortal enemy – browser compatibility.",
+      "",
   },
   {
     imgSrc: avatar2,
@@ -20,14 +20,14 @@ const teamMembers = [
     name: "Edun Joshua",
     role: "Data Engineer & Full Stack Dev",
     description:
-      "Because not all superheroes wear capes, some wear headphones and stare at Figma screens.",
+      "",
   },
   {
     imgSrc: avatar3,
-    imgAlt: "Alex Johnson profile picture",
-    name: "Alex Johnson",
+    imgAlt: "Mbuotidem Awak",
+    name: "Mbuotidem Awak",
     role: "Data Analyst",
-    description: "Where 'burnout' is just a fancy term for 'Tuesday'.",
+    description: "DSN",
   },
 ];
 
@@ -86,9 +86,9 @@ export default function LandingPage() {
                     <p className="text-xl font-bold text-yellow-300">
                       {member.role}
                     </p>
-                    <p className="w-full text-sm text-white">
+                    {/* <p className="w-full text-sm text-white">
                       {member.description}
-                    </p>
+                    </p> */}
                   </div>
                   <img
                     src={member.imgSrc}

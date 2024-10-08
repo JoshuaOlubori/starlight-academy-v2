@@ -54,12 +54,11 @@ export const teacherSchema = z.object({
       "Bachelor",
       "Master",
       "Doctoral",
-      "Unknown",
       "Other",
     ],
     {
       message:
-        "allowable values are:  'Primary','Secondary','Vocational','Diploma','Bachelor','Master','Doctoral','Unknown','Other'",
+        "allowable values are:  'Primary','Secondary','Vocational','Diploma','Bachelor','Master','Doctoral','Other'",
     }
   ),
 });
@@ -193,7 +192,7 @@ export const parentSchema = z.object({
 'Above5m'
     ], // Adjust the options based on your predefined IncomeLevel enum
     {
-      message: "Income level must be one of 'Low', 'Medium', 'High', or 'Unknown'.",
+      message: "Income level you provided is not valid",
     }
   ),
   parent_highest_education_level: z.enum(
@@ -205,12 +204,11 @@ export const parentSchema = z.object({
       "Bachelor",
       "Master",
       "Doctoral",
-      "Unknown",
       "Other",
     ],
     {
       message:
-        "Allowable values are: 'Primary', 'Secondary', 'Vocational', 'Diploma', 'Bachelor', 'Master', 'Doctoral', 'Unknown', 'Other'.",
+        "Allowable values are: 'Primary', 'Secondary', 'Vocational', 'Diploma', 'Bachelor', 'Master', 'Doctoral', 'Other'.",
     }
   ),
   parent_support_index: z.coerce

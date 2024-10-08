@@ -1,6 +1,7 @@
 "use server";
 
 import { revalidatePath } from "next/cache";
+import { ClerkAPIError, ClerkRuntimeError } from "@clerk/types";
 import {
   ClassSchema,
   ExamSchema,
@@ -12,7 +13,24 @@ import {
 import prisma from "./prisma";
 import { clerkClient } from "@clerk/nextjs/server";
 
-type CurrentState = { success: boolean; error: boolean };
+// Helper function to determine if an object is a ClerkAPIError
+function isClerkAPIError(error: any): error is ClerkAPIError {
+  return error && typeof error === 'object' && 'code' in error && 'message' in error;
+}
+
+// Helper function to determine if an object is a ClerkRuntimeError
+function isClerkRuntimeError(error: any): error is ClerkRuntimeError {
+  return error && typeof error === 'object' && 'code' in error && 'message' in error;
+}
+
+// Helper function to extract field name from unique constraint error message
+function extractFieldFromUniqueConstraintError(errorMessage: string): string | null {
+  const match = errorMessage.match(/\(`([^`]+)`\)/);
+  return match ? match[1] : null;
+}
+
+
+type CurrentState = { success: boolean; error: boolean; errorMessage?: string; };
 
 export const createSubject = async (
   currentState: CurrentState,
@@ -162,6 +180,8 @@ export const createTeacher = async (
         address: data.address,
         img: data.img || null,
         bloodType: data.bloodType,
+        teacher_highest_education_level: data.teacherHighestEducationLevel,
+        date_of_employment: data.dateOfEmployment,
         sex: data.sex,
         birthday: data.birthday,
         subjects: {
@@ -173,10 +193,40 @@ export const createTeacher = async (
     });
 
     // revalidatePath("/list/teachers");
-    return { success: true, error: false };
-  } catch (err) {
-    console.log(err);
-    return { success: false, error: true };
+    return { success: true, error: false, errorMessage: '' };
+  }  catch (err) {
+    console.error(err);
+    let errorMessage = 'An unknown error occurred';
+
+    if (err && typeof err === 'object' && 'errors' in err && Array.isArray(err.errors)) {
+      const clerkError = err.errors[0];
+      if (isClerkAPIError(clerkError)) {
+        errorMessage = clerkError.longMessage || clerkError.message;
+      }
+    } else if (err instanceof Error) {
+      if (err.message.toLowerCase().includes('unique constraint failed')) {
+        const field = extractFieldFromUniqueConstraintError(err.message);
+        if (field) {
+          errorMessage = `The ${field} you entered is already in use. Please choose a different ${field}.`;
+        } else {
+          errorMessage = "A unique constraint was violated. Please check your input and try again.";
+        }
+      } else {
+        errorMessage = err.message;
+      }
+    }
+
+    if (isClerkAPIError(err)) {
+      errorMessage = err.longMessage || err.message;
+    } else if (isClerkRuntimeError(err)) {
+      errorMessage = err.message;
+    }
+
+    return { 
+      success: false, 
+      error: true, 
+      errorMessage: errorMessage
+    };
   }
 };
 
@@ -297,12 +347,43 @@ export const createStudent = async (
     });
 
     // revalidatePath("/list/students");
-    return { success: true, error: false };
-  } catch (err) {
-    console.log(err);
-    return { success: false, error: true };
+    return { success: true, error: false, errorMessage: '' };
+  }  catch (err) {
+    console.error(err);
+    let errorMessage = 'An unknown error occurred';
+
+    if (err && typeof err === 'object' && 'errors' in err && Array.isArray(err.errors)) {
+      const clerkError = err.errors[0];
+      if (isClerkAPIError(clerkError)) {
+        errorMessage = clerkError.longMessage || clerkError.message;
+      }
+    } else if (err instanceof Error) {
+      if (err.message.toLowerCase().includes('unique constraint failed')) {
+        const field = extractFieldFromUniqueConstraintError(err.message);
+        if (field) {
+          errorMessage = `The ${field} you entered is already in use. Please choose a different ${field}.`;
+        } else {
+          errorMessage = "A unique constraint was violated. Please check your input and try again.";
+        }
+      } else {
+        errorMessage = err.message;
+      }
+    }
+
+    if (isClerkAPIError(err)) {
+      errorMessage = err.longMessage || err.message;
+    } else if (isClerkRuntimeError(err)) {
+      errorMessage = err.message;
+    }
+
+    return { 
+      success: false, 
+      error: true, 
+      errorMessage: errorMessage
+    };
   }
 };
+
 
 export const updateStudent = async (
   currentState: CurrentState,

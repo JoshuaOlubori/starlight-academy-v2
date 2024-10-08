@@ -29,7 +29,7 @@ const StudentPredictionsContainer = () => {
     fetchPredictions();
   }, []);
 
-  if (loading) return <div>Fetching at-risks students...</div>;
+  if (loading) return <div>Fetching at-risk students...</div>;
   if (error) return <div>Error: {error}</div>;
 
   return (

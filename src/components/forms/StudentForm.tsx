@@ -39,42 +39,15 @@ const StudentForm = ({
   } = useForm<StudentSchema>({
     resolver: zodResolver(studentSchema),
   });
-  // const [recentParents, setRecentParents] = useState([]);
-
-  // async function getRecentParents() {
-  //   try {
-  //     const result = await prisma.parent.findMany({
-  //       orderBy: {
-  //         createdAt: 'desc',
-  //       },
-  //       take: 5,
-  //     });
-
-  //     return result; // Directly return the result array
-  //   } catch (error) {
-  //     console.error(error);
-  //     return []; // Return an empty array in case of error
-  //   }
-  // }
-
-  // useEffect(() => {
-  //   const fetchParents = async () => {
-  //     const parents = await getRecentParents();
-  //     setRecentParents(parents); // Set the state with the resolved array
-  //   };
-    
-  //   fetchParents();
-  // }, []);
-
-
-  // const [img, setImg] = useState<any>();
-  // const [parents, setParents] = useState([]);
+ 
 
   const [state, formAction] = useFormState(
     type === "create" ? createStudent : updateStudent,
     {
       success: false,
       error: false,
+      errorMessage:''
+          
     }
   );
 
@@ -96,42 +69,6 @@ const StudentForm = ({
   }, [state, router, type, setOpen]);
 
   
-
-  // // Fetch the most recent 5 parents
-  // useEffect(() => {
-  //   const fetchParents = async () => {
-  //     const recentParents = await prisma.parent.findMany({
-  //       orderBy: {
-  //         createdAt: 'desc',
-  //       },
-  //       take: 5,
-  //     });
-  //     setParents(recentParents);
-  //   };
-  //   fetchParents();
-  // }, []);
-//   async function getRecentParents() {
-//     try {
-//       const result = await prisma.parent.findMany({
-//         orderBy: {
-//           createdAt: 'desc',
-//         },
-//         take: 5,
-//       });
-  
-//       const resultObj = {
-//         recentParents: result,
-//       };
-  
-//       // Use or return the result object
-//       console.log("parent ids",resultObj);
-//       return resultObj;
-//     } catch (error) {
-//       console.error(error);
-//     }
-//   }
-//  const recentParents =  getRecentParents()
-// console.log(recentParents);
 
   const { grades, classes, parents } = relatedData;
  const departments = ['science','arts','commerce','none'];
@@ -426,6 +363,12 @@ const StudentForm = ({
         />
 
       </div>
+      {state.error && (
+       
+       <span className="text-red-500">Something went wrong! {state.errorMessage || 'An error occurred'}:</span>
+       
+     
+     )}
       <button
         type="submit"
         className="self-start bg-blue-600 text-white p-2 rounded-md text-sm hover:bg-blue-700 transition-colors"
