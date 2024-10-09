@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import avatar1 from "@/assets/mkm.png";
 import avatar2 from "@/assets/joshua_profile.jpg";
 import avatar3 from "@/assets/mb.png";
+import pdf from "@/assets/Datafest Hackathon 24 - Team Starlight.pdf"
 
 const teamMembers = [
   {
@@ -143,7 +144,7 @@ export default function LandingPage() {
           </p>
           <Button className="bg-black hover:bg-gray-800 w-full sm:w-auto">
             <a
-              href="/path-to-your-research.pdf"
+              href={pdf}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center text-white text-base sm:text-xl py-2 px-4 w-full"
