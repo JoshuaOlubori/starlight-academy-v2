@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button"
 import avatar1 from "@/assets/mkm.png";
 import avatar2 from "@/assets/joshua_profile.jpg";
 import avatar3 from "@/assets/mb.png";
-import frontendScreenshot from "@/assets/front-end.png";
 import AppArchitectureComponent from "@/components/AppArchitectureComponent";
 // import img from 'next/image'
 // // import pdf from "@/assets/Datafest Hackathon 24 - Team Starlight.pdf"
