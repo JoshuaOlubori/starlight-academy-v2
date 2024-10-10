@@ -4,7 +4,10 @@ import { Button } from "@/components/ui/button"
 import avatar1 from "@/assets/mkm.png";
 import avatar2 from "@/assets/joshua_profile.jpg";
 import avatar3 from "@/assets/mb.png";
-// import pdf from "@/assets/Datafest Hackathon 24 - Team Starlight.pdf"
+import frontendScreenshot from "@/assets/front-end.png";
+import AppArchitectureComponent from "@/components/AppArchitectureComponent";
+// import img from 'next/image'
+// // import pdf from "@/assets/Datafest Hackathon 24 - Team Starlight.pdf"
 
 const teamMembers = [
   {
@@ -125,16 +128,38 @@ export default function LandingPage() {
           </div>
         </section>
 
+      
+
         <section className="border-l-8 border-red-600 pl-6">
-          <h2 className="text-4xl font-bold mb-4">LOGIN</h2>
-          <p className="text-lg mb-4">
-            Access the Starlight dashboard with these credentials:
-          </p>
-          <p className="text-lg mb-4">Username: admin | Password: admin</p>
-          <Button className="bg-black text-white text-xl py-6 px-8 hover:bg-gray-800">
+          <h2 className="text-4xl font-bold mb-4">STARLIGHT APP</h2>
+          <div className="space-y-4">
+            <p className="text-lg">
+              Welcome to Starlight, your all-in-one solution for proactive student success management.
+              Our app is designed to revolutionize how schools identify and support at-risk students.
+            </p>
+            <h3 className="text-2xl font-bold">Key Features:</h3>
+            <ul className="list-disc list-inside text-lg space-y-2">
+              <li>Real-time student performance tracking</li>
+              <li>AI-powered risk assessment for exam failure</li>
+              <li>Customized intervention strategies</li>
+              <li>Comprehensive analytics dashboard</li>
+              <li>Seamless communication tools for teachers, students, and parents</li>
+            </ul>
+            <p className="text-lg font-bold mt-4">
+              Ready to transform your school's approach to student success?
+            </p>
+          </div>
+          <div className="mt-6 space-y-4">
+            <p className="text-lg">Access the Starlight dashboard with these credentials:</p>
+            <p className="text-lg font-bold">Username: admin | Password: admin</p>
+            <Button asChild className="bg-black text-white text-xl py-6 px-8 hover:bg-gray-800">
             <a href="https://app-starlight.onrender.com/" target="_blank">LOGIN NOW</a>
-          </Button>
+            </Button>
+          </div>
         </section>
+
+
+
         <section className="bg-blue-200 p-4 sm:p-6">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">OUR RESEARCH</h2>
           <p className="text-base sm:text-lg mb-4">
@@ -179,6 +204,9 @@ export default function LandingPage() {
             </a>
           </Button>
         </section>
+
+
+        <AppArchitectureComponent/>
       </main>
 
       <footer className="mt-16 text-center">
