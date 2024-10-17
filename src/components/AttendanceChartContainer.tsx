@@ -12,7 +12,10 @@ const AttendanceChartContainer = async () => {
   lastMonday.setDate(today.getDate() - daysSinceMonday);
 
   const resData = await prisma.attendance.findMany({
-    
+
+    where: {
+      date: { gte: lastMonday }
+    },
     select: {
       date: true,
       present: true,
@@ -24,20 +27,20 @@ const AttendanceChartContainer = async () => {
   const daysOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 
   const attendanceMap: { [key: string]: { present: number; absent: number } } =
-    {
-      Mon: { present: 0, absent: 0 },
-      Tue: { present: 0, absent: 0 },
-      Wed: { present: 0, absent: 0 },
-      Thu: { present: 0, absent: 0 },
-      Fri: { present: 0, absent: 0 },
-    };
+  {
+    Mon: { present: 0, absent: 0 },
+    Tue: { present: 0, absent: 0 },
+    Wed: { present: 0, absent: 0 },
+    Thu: { present: 0, absent: 0 },
+    Fri: { present: 0, absent: 0 },
+  };
 
   resData.forEach((item) => {
     const itemDate = new Date(item.date);
     const dayOfWeek = itemDate.getDay();
 
-    
-    
+
+
     if (dayOfWeek >= 1 && dayOfWeek <= 5) {
       const dayName = daysOfWeek[dayOfWeek - 1];
 
@@ -57,7 +60,7 @@ const AttendanceChartContainer = async () => {
     absent: attendanceMap[day].absent,
   }));
 
- // console.log(data);
+  // console.log(data);
 
   return (
     <div className="rounded-none border border-black dark:border-neutral-300 bg-white rounded-lg p-4 h-full">
@@ -65,7 +68,7 @@ const AttendanceChartContainer = async () => {
         <h1 className="tfont text-lg font-semibold">Attendance</h1>
         <Image src="/moreDark.png" alt="" width={20} height={20} />
       </div>
-      <AttendanceChart data={data}/>
+      <AttendanceChart data={data} />
     </div>
   );
 };
