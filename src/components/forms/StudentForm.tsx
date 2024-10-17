@@ -5,7 +5,7 @@ import { useForm } from "react-hook-form";
 import InputField from "../InputField";
 import Image from "next/image";
 import { useFormState } from "react-dom";
-import { Dispatch, SetStateAction, useEffect, useState } from "react";
+import { Dispatch, SetStateAction, useEffect } from "react";
 import {
   studentSchema,
   StudentSchema,
@@ -369,14 +369,45 @@ const StudentForm = ({
        
      
      )}
-      <button
+      {/* <button
         type="submit"
         className="self-start bg-blue-600 text-white p-2 rounded-md text-sm hover:bg-blue-700 transition-colors"
       >
         {type === "create" ? "Create" : "Update"}
-      </button>
+      </button> */}
+    <button
+  type="submit"
+  className={`self-start cursor-pointer inline-flex justify-center items-center gap-2 whitespace-nowrap rounded-md 
+    bg-violet-500 hover:opacity-75 text-sm font-medium tracking-wide text-white transition 
+    focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 
+    focus-visible:outline-violet-500 active:opacity-100 active:outline-offset-0 
+    dark:bg-violet-400 dark:text-black dark:focus-visible:outline-violet-400 
+    px-4 py-2`}
+>
+  <svg
+    aria-hidden="true"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    className={`size-5 fill-white dark:fill-black`}
+    fill="currentColor"
+  >
+    <path
+      fillRule="evenodd"
+      d="M12 3.75a.75.75 0 01.75.75v6.75h6.75a.75.75 0 010 1.5h-6.75v6.75a.75.75 0 01-1.5 0v-6.75H4.5a.75.75 0 010-1.5h6.75V4.5a.75.75 0 01.75-.75z"
+      clipRule="evenodd"
+    />
+  </svg>
+  {type === "create" ? "Create" : "Update"}
+</button>
     </form>
   );
 };
 
 export default StudentForm;
+
+{/* <button type="button" className="cursor-pointer inline-flex justify-center items-center gap-2 whitespace-nowrap rounded-none bg-violet-500 px-4 py-2 text-sm font-medium tracking-wide text-white transition hover:opacity-75 text-center focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet-500 active:opacity-100 active:outline-offset-0 disabled:opacity-75 disabled:cursor-not-allowed dark:bg-violet-400 dark:text-black dark:focus-visible:outline-violet-400">
+    <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" className="size-5 fill-white dark:fill-black" fill="currentColor">
+        <path fill-rule="evenodd" d="M12 3.75a.75.75 0 01.75.75v6.75h6.75a.75.75 0 010 1.5h-6.75v6.75a.75.75 0 01-1.5 0v-6.75H4.5a.75.75 0 010-1.5h6.75V4.5a.75.75 0 01.75-.75z" clip-rule="evenodd" />
+    </svg>
+    Create
+</button> */}
